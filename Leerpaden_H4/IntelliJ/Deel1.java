@@ -1,10 +1,101 @@
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class Deel1 {
     public static void main(String[] args) {
         Deel1 a = new Deel1();
+        a.zestwee();
+    }
+    
+    public void zeven() {
+    	bridgePlayers += 4;
+    	total += amount;
+    	timer++;
+	}
+    public void name() {
+		if (isIsosceles) {
+			isoCount++;
+			triangleCount++;
+			polygonCount++;
+		}
+	}
+
+    public void zestwee() {
+		Scanner stdin = new Scanner(System.in);
+		int laatsteGetal = 0, som = 0;
+        while (laatsteGetal > -1){
+            int nieuwGetal = stdin.nextInt();
+            if (laatsteGetal == nieuwGetal){
+                som++;
+            }
+            laatsteGetal = nieuwGetal;
+        }
+        System.out.println(som);
+    }
+
+    void zes(){
+    	/*
+  
+    	Scanner stdin = new Scanner(System.in);
+        int laatsteGetal = 1;
+        while (laatsteGetal > 0){
+            int nieuwGetal = stdin.nextInt();
+            if (nieuwGetal > 100){
+                System.out.print(nieuwGetal + " ");
+            }
+            laatsteGetal = nieuwGetal;
+        }
+        System.out.print(" ");
+        
+    	int laatsteGetal = 1;
+    	int som = 0;
+        while (laatsteGetal > 0){
+            int nieuwGetal = stdin.nextInt();
+            if (nieuwGetal%2 ==0 && nieuwGetal > 0) {
+				som += nieuwGetal;
+			}
+            laatsteGetal = nieuwGetal;
+        }
+        System.out.println(som);
+        */
+
+    	
+    	
+    	
+    }
+
+    void dashedLine(int n){
+        if (n > 0){
+            while (n > 0){
+                System.out.print("-");
+                n--;
+            }
+            System.out.println();
+        }
+    }
+
+    public void vijf(){
+        /*
+        int k = 0;
+        while (k < 88){
+            System.out.print("*");
+            k++;
+        }
+        while (n > 0){
+            System.out.print("*");
+            n--;
+        }
+        k = 0;
+        total = 0;
+        while (k < 50){
+            k++;
+            total += (k*k);
+        }
+
+         */
 
     }
+
     public void printLarger(int a, int b){
         System.out.print(a > b ? a : b);
     }

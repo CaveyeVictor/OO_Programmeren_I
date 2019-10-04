@@ -6,8 +6,8 @@ public class Oefening5 {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Geef een geheel getal in: ");
 		int getal = input.nextInt();
-		System.out.printf("\t%15S\t%15S\t%15S\t%15S%n"
-				+ "\t%15d\t%15d\t%15d\t%15d",
+		System.out.printf("%15S\t%15S\t%15S\t%15S%n"
+				+ "%15d\t%15d\t%15d\t%15d",
 				"getal", "getal*10", "getal*100", "getal*1000",
 				getal, getal*10, getal*100, getal*1000);	
 	}
