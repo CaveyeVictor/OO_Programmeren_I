@@ -17,7 +17,7 @@ public class Product {
 		double prijs = getPrijsExclBtw()+((getPrijsExclBtw()/100)*getBtwPercentage());
 		
 		if (aantal >= 6) {
-			return (prijs/100)*getKorting6StuksPercentage();
+			return prijs-(prijs/100)*getKorting6StuksPercentage();
 		} else {
 			return prijs;
 		}

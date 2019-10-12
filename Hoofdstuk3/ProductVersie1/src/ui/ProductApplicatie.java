@@ -15,18 +15,17 @@ public class ProductApplicatie {
 				2.20, 6, 15);
 		
 		Scanner input = new Scanner(System.in);
-	System.out.println("Hoeveel pannenkoeken?");
-	int p = input.nextInt();
-	System.out.println("Hoeveel pannenkoeken met suiker?");
-	int pms = input.nextInt();
-	System.out.println("Hoeveel pannenkoeken met choco?");
-	int pmc = input.nextInt();
-	
-	System.out.printf("Aan de kassa zal u %.2f EURO moeten betalen",
-			pannenkoek.berekenPrijs(p)+pannenkoekms.berekenPrijs(pms)+
-			pannenkoekmc.berekenPrijs(pmc));
-
-
+		
+		System.out.println("Hoeveel pannenkoeken?");
+		int p = input.nextInt();
+		System.out.println("Hoeveel pannenkoeken met suiker?");
+		int pms = input.nextInt();
+		System.out.println("Hoeveel pannenkoeken met choco?");
+		int pmc = input.nextInt();
+		
+		System.out.printf("Aan de kassa zal u %.2f EURO moeten betalen",
+				pannenkoek.berekenPrijs(p)*p+pannenkoekms.berekenPrijs(pms)*pms+
+				pannenkoekmc.berekenPrijs(pmc)*pmc);
 	}
 
 }
