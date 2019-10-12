@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/usr/lib/jvm/java-13-openjdk" stamp="1570780982790"/>
     <entry loc="C:\Program Files\Java\jdk-11.0.4" stamp="1569602349894"/>
     <entry loc="/usr/lib/jvm/java-12-openjdk" stamp="1569491358071"/>
 </dirs>
