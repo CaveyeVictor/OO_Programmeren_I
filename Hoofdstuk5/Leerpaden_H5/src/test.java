@@ -1,13 +1,16 @@
 import java.util.Scanner;
 
-public class Test {
+public class test {
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
-        char t = 'a';
-        System.out.println(
-                (!((Character.getNumericValue(t) >= 97 && Character.getNumericValue(t) <= 102) || (Character.getNumericValue(t) >= 65 && Character.getNumericValue(t) <= 70 )) ? true : false
-                ));
+        int total;
 
-
+        total = 0;
+        int bedrag = stdin.nextInt();
+        for (int i = 0; i < 6; i++){
+            int uren = stdin.nextInt();
+            total += (bedrag * uren);
+        }
+        System.out.println(total);
     }
 }

@@ -1,12 +1,13 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
+/*
 public class Deel1 {
     public static void main(String[] args) {
         Deel1 a = new Deel1();
         a.zestwee();
     }
-    /*
+
     public void zeven() {
     	bridgePlayers += 4;
     	total += amount;
@@ -34,7 +35,7 @@ public class Deel1 {
     }
 
     void zes(){
-    	/*
+
   
     	Scanner stdin = new Scanner(System.in);
         int laatsteGetal = 1;
@@ -57,11 +58,11 @@ public class Deel1 {
             laatsteGetal = nieuwGetal;
         }
         System.out.println(som);
-        */
+
 
     	
     	
-    	*/
+
     }
 
     void dashedLine(int n){
@@ -75,7 +76,7 @@ public class Deel1 {
     }
 
     public void vijf(){
-        /*
+
         int k = 0;
         while (k < 88){
             System.out.print("*");
@@ -92,7 +93,7 @@ public class Deel1 {
             total += (k*k);
         }
 
-         */
+
 
     }
 
@@ -101,17 +102,17 @@ public class Deel1 {
     }
 
     public void conditioneleOperator(){
-        /*
+
     x >= 5 ? x : -x
 
         x > y ? x : y
 
-         */
+
     }
 
 
     public void printAttitude(int paramter){
-        /*
+
         if (paramter == 1){
             System.out.println("disagree");
         } else if (paramter == 2){
@@ -120,7 +121,7 @@ public class Deel1 {
             System.out.println("agree");
         }
 
-         */
+
 
 
         HashMap<Integer, String> hm = new HashMap<>() {
@@ -137,7 +138,7 @@ public class Deel1 {
     }
 
     public void deel3(){
-        /*
+
         int speed = 5;
         if (speed < 0){
             reverseDrivers++;
@@ -166,11 +167,11 @@ public class Deel1 {
             base = 1;
         }
 
-         */
+
     }
 
     public void deel2(){
-        /*
+
         if (age >= 65){
             seniorCitizens++;
         } else {
@@ -198,11 +199,11 @@ public class Deel1 {
             workedOvertime = false;
         }
 
-         */
+
     }
 
     public void deel1(){
-        /*
+
         int goodsSold = 450000;
         int bonus;
         if (goodsSold > 500000){
@@ -239,6 +240,7 @@ public class Deel1 {
             }
         }
 
-         */
+
     }
 }
+*/
