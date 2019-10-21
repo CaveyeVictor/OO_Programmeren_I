@@ -6,7 +6,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Leerpaden/h4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Leerpaden_H4/IntelliJ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hoofdstuk4/Leerpaden_H4/IntelliJ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hoofdstuk5/Leerpaden_H5/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

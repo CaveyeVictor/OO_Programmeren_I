@@ -4,9 +4,12 @@ public class deel1 {
 
 	public static void main(String[] args) {
 		Scanner stdin = new Scanner(System.in);
-		int n;
-		
-		
+		char t = 'a';
+		System.out.println(
+				(!((Character.getNumericValue(t) >= 97 && Character.getNumericValue(t) <= 102) || (Character.getNumericValue(t) >= 65 && Character.getNumericValue(t) <= 70 )) ? true : false
+		));
+
+
 	}
 	
 	public void a20925() {
