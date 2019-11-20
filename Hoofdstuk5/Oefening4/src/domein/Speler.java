@@ -40,7 +40,7 @@ public class Speler {
 		return naam;
 	}
 
-	private void setNaam(String naam) {
+	private final void setNaam(String naam) {
 		this.naam = naam;
 	}
 

@@ -34,7 +34,7 @@ public class Marktkraam {
 	}
 
 	private void setNaam(String naam) {
-		if (naam.equals("") || naam == null) {
+		if (naam == null || naam.equals("")) {
 			throw new IllegalArgumentException("Fout");
 		} else {
 			this.naam = naam;

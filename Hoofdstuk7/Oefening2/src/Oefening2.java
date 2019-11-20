@@ -1,22 +1,11 @@
+import java.security.SecureRandom;
 import java.util.Random;
 
 public class Oefening2 {
 
 	public static void main(String[] args) {
 		Random rGRandom = new Random();
-		/*
-		
-		int array[] = new int[rGRandom.nextInt(19)+1];
-		
-		for (int i = 0; i < array.length; i++) {
-			array[i] = rGRandom.nextInt();
-		}
-		
-		for (int i = 0; i < array.length; i++) {
-			//System.out.printf("%d ", array[i]);
-		}
-		*/
-	
+		SecureRandom aRandom = new SecureRandom();
 		
 		int[] a = {4,7,15,3,9,22,36,24,28,14,19,27,30,31,2};
 		

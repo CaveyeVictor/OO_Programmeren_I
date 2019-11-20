@@ -9,8 +9,8 @@ public class GetallenApplicatie {
 		int teller=0;
 		
 		int laatste;
-		
-		System.out.printf("Geef geheel getal (-2000 STOP): ");
+
+		System.out.print("Geef geheel getal (-2000 STOP): ");
 		int getal = input.nextInt();
 		laatste = getal;
 		
@@ -19,7 +19,7 @@ public class GetallenApplicatie {
 				teller++;
 			}
 			laatste = getal;
-			System.out.printf("Geef geheel getal (-2000 STOP): ");
+			System.out.print("Geef geheel getal (-2000 STOP): ");
 			getal = input.nextInt();
 			
 		}
