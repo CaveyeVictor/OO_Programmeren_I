@@ -11,11 +11,14 @@ public class MijnGetallen {
 	
 	public boolean isPriemtweeling() {
 		if (getGetal1() + 2 == getGetal2() || getGetal1() == getGetal2() + 2) {
-			return isPriem(getGetal1())&&isPriem(getGetal2());
+			return zijnPriem();
 		} else {
 			return false;
 		}
-		
+	}
+	
+	public boolean zijnPriem() {
+		return isPriem(getGetal1())  && isPriem(getGetal2());
 	}
 	
 	private boolean isPriem(int getal) {
@@ -23,7 +26,7 @@ public class MijnGetallen {
 			return false;
 		}
 		int deler = 2;
-		while (deler < getal) {
+		while (deler < getal/2) {
 			if (getal%deler == 0 && getal != 1) {
 				return false;
 			}
@@ -31,26 +34,34 @@ public class MijnGetallen {
 		}
 		return true;
 	}
+	
+	private void wisselOm() {
+		int tempX = getGetal1();
+		setGetal1(getGetal2());
+		setGetal2(tempX);
+	}
+	
+	private void controleerGetal(int getal) {
+		if (getal < 1) {
+			throw new IllegalArgumentException();
+		}
+	}
 
 	public int getGetal1() {
 		return getal1;
 	}
 
 	public void setGetal1(int getal1) {
-		if (getal1 < 1) {
-			getal1 = 1;
-		}
+		controleerGetal(getal1);
 		this.getal1 = getal1;
 	}
 
 	public int getGetal2() {
-		if (getal2 < 1) {
-			getal2 = 1;
-		}
 		return getal2;
 	}
 
 	public void setGetal2(int getal2) {
+		controleerGetal(getal1);
 		this.getal2 = getal2;
 	}
 	
