@@ -14,7 +14,8 @@ public class Punt {
     }
 
     public double berekenAfstandTotPunt(Punt punt){
-        return Math.sqrt(Math.exp(punt.getX()-getX()) + Math.exp(punt.getY()-getY()));
+    	
+        return Math.sqrt(Math.pow(punt.getX()-getX(), 2) + Math.pow(punt.getY()-getY(), 2));
     }
 
     public int getX() {
