@@ -10,3 +10,8 @@ x = Math.random(); //0.65
 2.
 SecureRandom sr = new SecureRandom();
 int worp = sr.nextInt(6);
+
+
+Collections = dynamische structuur <-> array: statische structuur
+
+Collections *<E>* = klassetype => geneste? klassen 
