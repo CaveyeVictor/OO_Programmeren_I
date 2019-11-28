@@ -14,4 +14,4 @@ Fork the project en make a Pull Request.
 
 ## Problems in Eclipse?
 
-Search for .java/.class file and open it with text-editor en copy past it into a new class.
+Search for .java/.class file and open it with text-editor en copy paste it into a new class.
