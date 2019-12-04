@@ -8,12 +8,12 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class MenuApplicatie {
-	static Scanner inputScanner = new Scanner(System.in);
 
 	public static void main(String[] args) {
+		Scanner inputScanner = new Scanner(System.in);
 		int menu = -1;
 		do {
-			menu = toonMenuEnGeefKeuze();
+			menu = toonMenuEnGeefKeuze(inputScanner);
 			switch (menu) {
 			case 1:
 				toonResultaat(geefBegroeting());
@@ -31,10 +31,15 @@ public class MenuApplicatie {
 
 	}
 	
-	public static int toonMenuEnGeefKeuze() {
-		System.out.printf("Menu:%n1) Begroeting%n2) Huidige datum%n"
-				+ "3) Naar hexadecimaal%n0) Stoppen%nGeef uw keuze: ");
-		return inputScanner.nextInt();
+	public static int toonMenuEnGeefKeuze(Scanner inputScanner) {
+		int keuze = -1;
+		do {
+			System.out.printf("Menu:%n1) Begroeting%n2) Huidige datum%n"
+					+ "3) Naar hexadecimaal%n0) Stoppen%nGeef uw keuze: ");
+			keuze = inputScanner.nextInt();
+		} while (keuze < 0 || keuze > 3);
+
+		return keuze;
 	}
 	
 	public static String geefBegroeting() {

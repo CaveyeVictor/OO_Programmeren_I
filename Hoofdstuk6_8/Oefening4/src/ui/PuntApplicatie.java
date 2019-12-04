@@ -7,28 +7,35 @@ import java.util.Scanner;
 public class PuntApplicatie {
 
 	public static void main(String[] args) {
+
+		//todo & feebback:
+		/* de methode
+
+		public boolean vergelijkMetPunt(Punt punt)
+
+		gebruiken en de controle proberen te beperken tot 1 keer ipv 2 keer */
+
+
 		PuntApplicatie puntApplicatie = new PuntApplicatie();
 		Scanner sc = new Scanner(System.in);
 		int teller = 1;
 		double omtrek = 0;
-		String vraag1 = "Geef eerste coördinaat in : ",
-				vraag2 = "Geef tweede coôrdinaat in : ",
+		String vraag1 = "Geef eerste coï¿½rdinaat in : ",
+				vraag2 = "Geef tweede coï¿½rdinaat in : ",
 				aantalHoekenString = "Het aantal hoekpunten = ",
 				omtrekString = "De omtrek = ";
 
 		Punt eerste = puntApplicatie.leesPunt(vraag1, vraag2, sc);
 		Punt vorig = eerste;
 
-		vraag1 = String.format("Geef eerste coôrdinaat in (%d om te stoppen):", eerste.getX());
-		vraag2 = String.format("Geef tweede coôrdinaat in (%d om te stoppen):", eerste.getY());
+		vraag1 = String.format("Geef eerste coï¿½rdinaat in (%d om te stoppen):", eerste.getX());
+		vraag2 = String.format("Geef tweede coï¿½rdinaat in (%d om te stoppen):", eerste.getY());
 
 		do {
 
 			Punt nieuwPunt = puntApplicatie.leesPunt(vraag1, vraag2, sc);
 			if (nieuwPunt.getX() != eerste.getX() || nieuwPunt.getY() != eerste.getY()){
-				//todo foute omtrek
 				omtrek += nieuwPunt.berekenAfstandTotPunt(vorig);
-
 				teller++;
 			} else {
 				omtrek += nieuwPunt.berekenAfstandTotPunt(vorig);

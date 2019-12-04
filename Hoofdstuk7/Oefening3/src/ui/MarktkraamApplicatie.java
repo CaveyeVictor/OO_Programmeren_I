@@ -32,27 +32,29 @@ public class MarktkraamApplicatie {
 		do {
 			System.out.println("Aan welk kraam iets kopen?");
 			System.out.println("0. Stoppen");
-			for (int i = 0; i < arrayMarktkraam.length; i++) {
-				System.out.printf("%d. Kraam van %s%n", i+1, arrayMarktkraam[i].getNaam());
+			int i = 1;
+			for (Marktkraam mk: arrayMarktkraam){
+				System.out.printf("%d. Kraam van %s%n", i, mk.getNaam());
 			}
 			System.out.print("Geef je keuze: ");
 			keuze = inScanner.nextInt();
 
-			
-			if (keuze != 0) {
+
+			if (keuze != 0 || keuze < arrayMarktkraam.length || keuze > 1) {
 				System.out.print("Geef prijs in euro van gekochte item: ");
 				double prijs = inScanner.nextDouble();
 				arrayMarktkraam[keuze-1].voegToeAanInkomsten(prijs);
-				
+
 			}
-			
+
 		} while (keuze > 0 && keuze <= arrayMarktkraam.length );
 		
-		
+		int j = 1;
 		System.out.println("Overzicht per kraam");
-		for (int i = 0; i < arrayMarktkraam.length; i++) {
+		for (Marktkraam mk: arrayMarktkraam){
 			System.out.printf("%5d%10S%15.2f%n",
-					i+1, arrayMarktkraam[i].getNaam(), arrayMarktkraam[i].berekenWinst());
+					j, mk.getNaam(), mk.berekenWinst());
+			j++;
 		}
 	}
 
