@@ -15,6 +15,7 @@ public class Oefening1 {
         int[] lijst2 = new int[10];
         int i = 0;
 
+
         int j;
 
         do {
