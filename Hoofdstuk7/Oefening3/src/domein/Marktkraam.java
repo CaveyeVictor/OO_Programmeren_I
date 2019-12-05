@@ -12,7 +12,7 @@ public class Marktkraam {
 	
 	public void voegToeAanInkomsten (double bedrag) {
 		if (bedrag <= 0) {
-			System.out.println("Fout");
+			throw new IllegalArgumentException("Fout");
 		} else {
 			inkomsten += bedrag;
 		}
@@ -20,10 +20,10 @@ public class Marktkraam {
 	
 	public double berekenWinst() {
 		double kosten;
-		if (getLengteInM() <= 5) {
-			kosten = getLengteInM()*3;
+		if (lengteInM <= 5) {
+			kosten = lengteInM*3;
 		} else {
-			kosten = getLengteInM()*2.5;
+			kosten = lengteInM*2.5;
 		}
 		
 		return inkomsten - kosten;
@@ -33,7 +33,7 @@ public class Marktkraam {
 		return naam;
 	}
 
-	private void setNaam(String naam) {
+	public final void setNaam(String naam) {
 		if (naam == null || naam.equals("")) {
 			throw new IllegalArgumentException("Fout");
 		} else {
@@ -45,7 +45,7 @@ public class Marktkraam {
 		return lengteInM;
 	}
 
-	private void setLengtelnM(int lengteInM) {
+	public final void setLengtelnM(int lengteInM) {
 		if (lengteInM >= 2 && lengteInM <= 10) {
 			this.lengteInM = lengteInM;
 		} else {

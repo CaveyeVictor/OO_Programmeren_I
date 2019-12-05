@@ -1,10 +1,11 @@
 import java.security.SecureRandom;
-import java.util.Random;
 
 public class Oefening2 {
 
 	public static void main(String[] args) {
-		Random rGRandom = new Random();
+
+		//feedback :zg! je kan ook reeds de reeks bijhouden terwijl je de getallen vergelijkt => beginIndex niet bijhouden maar wel lenMax en langsteReeks
+
 		SecureRandom aRandom = new SecureRandom();
 		
 		int[] a = {4,7,15,3,9,22,36,24,28,14,19,27,30,31,2};
@@ -32,9 +33,6 @@ public class Oefening2 {
 		}
 		
 		System.out.printf("Opvolgingen %d bestaat uit %s", lenMax, getallen_string);
-
-		
-		
 
 	}
 

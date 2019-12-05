@@ -10,12 +10,12 @@ public class Punt {
     }
 
     public boolean vergelijkMetPunt(Punt punt){
-        return getX()==punt.getX() && getY()==punt.getY();
+        return x==punt.getX() && y==punt.getY();
     }
 
     public double berekenAfstandTotPunt(Punt punt){
     	
-        return Math.sqrt(Math.pow(punt.getX()-getX(), 2) + Math.pow(punt.getY()-getY(), 2));
+        return Math.sqrt(Math.pow(punt.getX()-x, 2) + Math.pow(punt.getY()-y, 2));
     }
 
     public int getX() {
@@ -39,7 +39,7 @@ public class Punt {
 
     private void controleerCoor(int a){
         if (a < 0) {
-            throw new IllegalArgumentException();
+            throw new IllegalArgumentException("Fout Coördinaat");
         }
     }
 

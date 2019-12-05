@@ -10,37 +10,39 @@ public class Speler {
 	}
 		
 	public String geefNieuwePositie(int worp) {
+
+		//Tekst kan iedereen typen e
 		
 		if (getVaknr() + worp > GROOTSTENR) {
 			int tussengetal = GROOTSTENR - getVaknr();
 			setVaknr(GROOTSTENR - (worp-tussengetal));
 		} else {
-			if (getVaknr() == 6) {
-				setVaknr(12);
-				return "via Brug en je bevindt je op vak " + getVaknr();
-			} else if (getVaknr() == 42) {
-				setVaknr(37);
-				return "via doornstruik en je bevindt je op vak " + getVaknr();
-			} else if (getVaknr() == 58) {
-				setVaknr(1);
-				return "dood en je bevindt je op vak " + getVaknr();
+			if (vaknr == 6) {
+				vaknr = 12;
+				return "via Brug en je bevindt je op vak " + vaknr;
+			} else if (vaknr == 42) {
+				vaknr = 37;
+				return "via doornstruik en je bevindt je op vak " + vaknr;
+			} else if (vaknr == 58) {
+				vaknr = 1;
+				return "dood en je bevindt je op vak " + vaknr;
 			} else {
-				setVaknr(getVaknr()+worp);
+				vaknr = vaknr+worp;
 			}
 		}
-		return "je bevindt je op vak " + getVaknr();
+		return "je bevindt je op vak " + vaknr;
 	}
 	
 	
 	public boolean gewonnen() {
-		return getVaknr() == GROOTSTENR;
+		return vaknr == GROOTSTENR;
 	}
 
 	public String getNaam() {
 		return naam;
 	}
 
-	private final void setNaam(String naam) {
+	private void setNaam(String naam) {
 		this.naam = naam;
 	}
 

@@ -18,22 +18,22 @@ public class Berekening {
 	}
 	
 	public String geefSom() {
-		return "De som van " + getX() + " en " + getY() + " is " + (getX()+getY());
+		return String.format("De som van %d en %d is %d", x, y, x+y);
 	}
 	
 	public String geefVerschil() {
-		return "Het verschil tussen " + getX() + " en " + getY() + " is " + (getX()-getY());
+		return String.format("Het verschil van %d en %d is %d", x, y, x-y);
 	}
 	
 	public String geefProduct() {
-		return "Het product van " + getX() + " en " + getY() + " is " + (getX()*getY());
+		return String.format("Het product van %d en %d is %d", x, y, x*y);
 	}
 	
 	public String geefQuotient() {
-		if (getY() == 0) {
-			return "Fout: deling door nul";
+		if (y == 0) {
+			return String.format("Fout: deling door nul");
 		} else {
-			return "Het quotiënt van " + getX() + " en " + getY() + " is " + (getX()/getY());
+			return String.format("Het quotiënt van %d en %d is %d", x, y, x/y);
 		}
 	}
 	
@@ -43,7 +43,7 @@ public class Berekening {
 			for (int j = begingrens; j <= eindgrens; j++) {
 				for (int k = begingrens; k <= eindgrens; k++) {
 					if ((a*i)+(b*j)+(c*k) == d) {
-						resultaatString += (a+"*"+i + " + " + b+"*"+j + " + " + c+"*"+k + " = " + d + "\n");
+						resultaatString += String.format("%d*%d + %d*%d + %d%d = %d%n",a,i,b,j,c,k,d);
 					}
 				}
 				
@@ -54,16 +54,16 @@ public class Berekening {
 	
 	public String zoekRijenMetAlsSomX() {
 		String resultatString = "";
-		for (int i = 1; i < getX()/2+1; i++) {
+		for (int i = 1; i < x/2+1; i++) {
 			String tussenstukString = String.format("%d", i);
 			int som = i;
-			for (int j = i+1; j < getX(); j++) {
+			for (int j = i+1; j < x; j++) {
 				som += j;
-				if (som <= getX()) {
+				if (som <= x) {
 					tussenstukString += String.format(" + %d", j);
-				}
-				if (som == getX()) {
-					resultatString += tussenstukString + String.format(" = %d%n", getX());
+				} else if (som == x) {
+					//todo controleren?
+					resultatString += tussenstukString + String.format(" = %d%n", x);
 					break;
 				}
 			}

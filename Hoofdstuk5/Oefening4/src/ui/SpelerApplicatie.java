@@ -1,5 +1,6 @@
 package ui;
 
+import java.security.SecureRandom;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -10,7 +11,7 @@ public class SpelerApplicatie {
 	public static void main(String[] args) {
 		
 		Scanner inputScanner = new Scanner(System.in);
-		Random rgRandom = new Random();
+		SecureRandom rgRandom = new SecureRandom();
 		
 		System.out.print("Naam speler 1: ");
 		String naam1 = inputScanner.nextLine();
@@ -23,12 +24,12 @@ public class SpelerApplicatie {
 		
 		
 		System.out.printf("%s, gooi eens.%n", speler1.getNaam());
-		int begin1 = rgRandom.nextInt(5);
+		int begin1 = rgRandom.nextInt(6)+1;
 		System.out.printf("%s, gooi eens.%n", speler2.getNaam());
-		int begin2 = rgRandom.nextInt(5);
+		int begin2 = rgRandom.nextInt(6)+1;
 		
 		if (begin1 < begin2) {
-			Speler speler3 = new Speler(speler1.getNaam());
+			Speler speler3 = speler1; // de referenties doorgeven
 			speler1 = speler2;
 			speler2 = speler3;
 		}
@@ -37,10 +38,10 @@ public class SpelerApplicatie {
 		
 		while (!(speler1.gewonnen() || speler2.gewonnen())) {
 			if (speler1AanBeurt) {
-				int ogen = rgRandom.nextInt(7);
+				int ogen = rgRandom.nextInt(6)+1;
 				System.out.printf("%s: je gooide %d en %s%n", speler1.getNaam(), ogen,speler1.geefNieuwePositie(ogen));
 			} else {
-				int ogen = rgRandom.nextInt(7);
+				int ogen = rgRandom.nextInt(6)+1;
 				System.out.printf("%s: je gooide %d en %s%n", speler2.getNaam(), ogen,speler2.geefNieuwePositie(ogen));
 			}
 			speler1AanBeurt = !speler1AanBeurt;
