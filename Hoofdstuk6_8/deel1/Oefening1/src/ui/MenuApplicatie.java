@@ -11,7 +11,7 @@ public class MenuApplicatie {
 
 	public static void main(String[] args) {
 		Scanner inputScanner = new Scanner(System.in);
-		int menu = -1;
+		int menu;
 		do {
 			menu = toonMenuEnGeefKeuze(inputScanner);
 			switch (menu) {
