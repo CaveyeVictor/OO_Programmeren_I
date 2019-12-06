@@ -50,8 +50,7 @@ public class MenuApplicatie {
 		final Locale NL = new Locale("nl", "NL");
 		Format dateFormat = new SimpleDateFormat("EEEE, dd MMMM, yyyy", NL);
 		Date date = new Date();
-		String tempString = dateFormat.format(date);
-		return String.format("%s%n%n", tempString);
+		return String.format("%s%n%n", dateFormat.format(date));
 	}
 	
 	public static String zetOmNaarHexadecimaal(int getal) {
