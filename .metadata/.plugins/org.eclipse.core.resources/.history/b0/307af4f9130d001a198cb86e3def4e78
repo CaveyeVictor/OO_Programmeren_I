@@ -1,0 +1,28 @@
+package ui;
+
+public class AchterstevorenApp {
+
+	public static void main(String[] args) {
+		AchterstevorenApp achterstevorenApp = new AchterstevorenApp();
+		System.out.println(achterstevorenApp.draaiOm(12345));
+
+	}
+	
+	private int draaiOm(int getal) {
+		String omgedraaidString = "";
+		int laatsteDeel = 0;
+		while (getal/10 > 0) {
+			
+		}
+		if (getal >= 10) {
+			laatsteDeel = getal%10;
+			getal /= 10;
+		} else {
+			laatsteDeel = getal;
+		}
+		omgedraaidString += String.format("d", laatsteDeel);
+		return Integer.valueOf(omgedraaidString);
+		
+	}
+
+}

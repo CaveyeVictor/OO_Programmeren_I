@@ -1,0 +1,48 @@
+package domein;
+
+public class Speler {
+	private String naam;
+	private int vaknr = 0;
+	private static final int GROOTSTENR = 63;
+	
+	public Speler(String naam) {
+		setNaam(naam);
+	}
+	
+	public String geefNieuwePositie(int worp) {
+
+
+	}
+	
+	private void controle(int vaknr) {
+		if (getVaknr() == 6) {
+			setVaknr(12);
+		} else if (vaknr == 42) {
+			setVaknr(37);
+		} else if (vaknr == 58) {
+			setVaknr(1);
+		}
+	}
+	
+	public boolean gewonnen() {
+		return getVaknr() == GROOTSTENR;
+	}
+
+	public String getNaam() {
+		return naam;
+	}
+
+	private void setNaam(String naam) {
+		this.naam = naam;
+	}
+
+	public int getVaknr() {
+		return vaknr;
+	}
+
+	public final void setVaknr(int vaknr) {
+		this.vaknr = vaknr;
+	}
+	
+
+}

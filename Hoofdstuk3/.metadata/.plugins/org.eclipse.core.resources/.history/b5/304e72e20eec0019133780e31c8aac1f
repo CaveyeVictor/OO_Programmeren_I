@@ -1,0 +1,69 @@
+package domein;
+
+public class Product {
+	
+	private String naam;
+	private double prijsExclBtw;
+	private int btwPercentage, korting6StuksPercentage;
+	
+	public Product(String naam, double prijsExclBtw, int btwPercentage, int korting6StuksPercentage) {
+		setBtwPercentage(btwPercentage);
+		setKorting6StuksPercentage(korting6StuksPercentage);
+		setNaam(naam);
+		setPrijsExclBtw(prijsExclBtw);
+	}
+	
+	public double berekenPrijs(int aantal) {
+		double prijs = getPrijsExclBtw()*((getPrijsExclBtw()/100)*21);
+		
+		if (aantal > 6) {
+			return (prijs/100)*getKorting6StuksPercentage();
+		} else {
+			return prijs;
+		}
+	}
+
+	public String getNaam() {
+		return naam;
+	}
+
+	private void setNaam(String naam) {
+		this.naam = naam;
+	}
+
+	public double getPrijsExclBtw() {
+		return prijsExclBtw;
+	}
+
+	public final void setPrijsExclBtw(double prijsExclBtw) {
+		this.prijsExclBtw = prijsExclBtw;
+	}
+
+	public int getBtwPercentage() {
+		return btwPercentage;
+	}
+
+	public final void setBtwPercentage(int btwPercentage) {
+		if (btwPercentage <= 21 && btwPercentage >= 6) {
+			this.btwPercentage = btwPercentage;
+		} else {
+			this.btwPercentage = 21;
+		}
+		
+	}
+
+	public int getKorting6StuksPercentage() {
+		return korting6StuksPercentage;
+	}
+
+	public final void setKorting6StuksPercentage(int korting6StuksPercentage) {
+		if (korting6StuksPercentage >= 0 && korting6StuksPercentage <= 50) {
+			this.korting6StuksPercentage = korting6StuksPercentage;
+		} else {
+			this.korting6StuksPercentage = 0;
+		}
+	}
+	
+	
+
+}

@@ -1,0 +1,35 @@
+package ui;
+
+import java.util.Scanner;
+
+public class AchterstevorenApp {
+
+	public static void main(String[] args) {
+		Scanner inputScanner = new Scanner(System.in);
+		AchterstevorenApp achterstevorenApp = new AchterstevorenApp();
+		System.out.print("");
+		
+		System.out.printf("Geef een getal: %n"
+				+ "Het getal achterstevoren is: %d",
+				achterstevorenApp.draaiOm(inputScanner.nextInt()));
+
+	}
+	
+	private int draaiOm(int getal) {
+		String omgedraaidString = "";
+		int laatsteDeel = 0;
+		while (getal/10 > 0) {
+			if (getal >= 10) {
+				laatsteDeel = getal%10;
+				getal /= 10;
+			} else {
+				laatsteDeel = getal;
+			}
+			omgedraaidString += String.format("%d", laatsteDeel);
+		}
+		omgedraaidString += String.format("%d", getal);
+		return Integer.valueOf(omgedraaidString);
+		
+	}
+
+}

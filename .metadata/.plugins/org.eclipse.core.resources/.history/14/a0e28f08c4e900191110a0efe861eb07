@@ -1,0 +1,33 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class Applicatie3 {
+	
+
+	public static void main(String[] args) {
+		
+		Scanner input =  new Scanner(System.in);
+		int totaal = 0;
+		int aantal = 0;
+		int laatsteGetal = 0;
+		
+		while (laatsteGetal != -1) {
+			System.out.print("Geef een getal (-1 om te stoppen): ");
+			int getal = input.nextInt();
+			if (getal < -1) {
+				totaal += getal;
+				aantal++;
+			}
+			laatsteGetal = getal;
+		}
+		
+		if (aantal == 0) {
+			System.out.println("Er werden geen negatieve getallen ingevoerd!");
+		} else {
+			System.out.printf("Het gemiddelde van de negatieve getallen is: %.3f%n", totaal/aantal);
+		}
+
+	}
+
+}

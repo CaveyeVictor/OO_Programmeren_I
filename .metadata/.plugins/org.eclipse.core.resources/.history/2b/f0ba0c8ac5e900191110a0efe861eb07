@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Applicatie4 {
+
+	public static void main(String[] args) {
+		Scanner input =  new Scanner(System.in);
+		int grootste = -1;
+		int kleinste = -1;
+		int laatsteGetal = -1;
+		
+		while (laatsteGetal != 0) {
+			System.out.print("Geef een getal (0 om te stoppen): ");
+			int getal = input.nextInt();
+			if (grootste == -1) {
+				grootste = getal;
+				kleinste = getal;
+			}
+			if (getal > grootste) {
+				grootste = getal;
+			}
+			if (getal < kleinste) {
+				kleinste = getal;
+			}
+			laatsteGetal = getal;
+		}
+		System.out.printf("Het grootste van alle ingevoerde getallen is %d.%nHet kleinste is %d.", grootste, kleinste);
+
+	}
+
+}

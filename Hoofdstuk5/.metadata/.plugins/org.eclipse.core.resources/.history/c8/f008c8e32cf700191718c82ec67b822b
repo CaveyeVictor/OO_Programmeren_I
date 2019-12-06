@@ -1,0 +1,24 @@
+package ui;
+
+import java.util.Scanner;
+
+import domein.Speler;
+
+public class SpelerApplicatie {
+
+	public static void main(String[] args) {
+		
+		Scanner inputScanner = new Scanner(System.in);
+		
+		System.out.println("Naam speler 1: ");
+		String naam1 = inputScanner.nextLine();
+		System.out.println("Naam speler 2: ");
+		String naam2 = inputScanner.nextLine();
+		
+		Speler speler1 = new Speler(naam1);
+		Speler speler2 = new Speler(naam2);
+		
+
+	}
+
+}

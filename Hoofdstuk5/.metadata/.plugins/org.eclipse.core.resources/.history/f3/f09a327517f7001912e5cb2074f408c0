@@ -1,0 +1,17 @@
+package ui;
+
+import domein.Speler;
+
+public class SpelerApplicatie {
+
+	public static void main(String[] args) {
+		Speler aSpeler = new Speler("Jan");
+		System.out.println(aSpeler.geefNieuwePositie(6));
+		System.out.println(aSpeler.geefNieuwePositie(20));
+		System.out.println(aSpeler.geefNieuwePositie(6));
+		System.out.println(aSpeler.geefNieuwePositie(4));
+		
+
+	}
+
+}

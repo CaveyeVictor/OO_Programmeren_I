@@ -1,0 +1,77 @@
+package domein;
+
+public class Speler {
+	private String naam;
+	private int vaknr = 0;
+	private static final int GROOTSTENR = 63;
+	
+	public Speler(String naam) {
+		setNaam(naam);
+	}
+	
+	public int geefNieuwePositie(int worp) {
+		setVaknr(getVaknr()+worp);
+		return getVaknr() + worp;
+	}
+		/*
+		if (getVaknr() + worp > GROOTSTENR) {
+			int tussengetal = GROOTSTENR - getVaknr();
+			setVaknr(getVaknr() - (worp-tussengetal));
+		} else {
+			setVaknr(getVaknr()+worp);
+		}
+		controle(worp);
+		
+		//return "je bevindt je op vak " + getVaknr();
+	}
+	*/
+	
+	
+	/*
+	public String geefNieuwePositie(int worp) {
+		
+		if (getVaknr() + worp > GROOTSTENR) {
+			int tussengetal = GROOTSTENR - getVaknr();
+			setVaknr(getVaknr() - (worp-tussengetal));
+		} else {
+			setVaknr(getVaknr()+worp);
+		}
+		controle(worp);
+		return "je bevindt je op vak " + getVaknr();
+	}
+	*/
+	
+	private void controle(int worp) {
+		if (getVaknr() == 6) {
+			setVaknr(12);
+		} else if (getVaknr() == 42) {
+			setVaknr(37);
+		} else if (getVaknr() == 58) {
+			setVaknr(1);
+		} else if (getVaknr() > GROOTSTENR) {
+			
+		}
+	}
+	
+	public boolean gewonnen() {
+		return getVaknr() == GROOTSTENR;
+	}
+
+	public String getNaam() {
+		return naam;
+	}
+
+	private void setNaam(String naam) {
+		this.naam = naam;
+	}
+
+	public int getVaknr() {
+		return vaknr;
+	}
+
+	public final void setVaknr(int vaknr) {
+		this.vaknr = vaknr;
+	}
+	
+
+}

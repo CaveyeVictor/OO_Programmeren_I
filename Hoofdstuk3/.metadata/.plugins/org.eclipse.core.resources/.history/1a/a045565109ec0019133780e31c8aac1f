@@ -1,0 +1,28 @@
+package domein;
+
+public class Rechthoek {
+	private double lengte;
+	private double breedte;
+	
+	public Rechthoek(double lengthe, double breedte) {
+		this.breedte = breedte;
+		this.lengte = lengthe;
+	}
+	
+	public double berekenOmtrek(){
+		return 2*(lengte+breedte);
+	}
+	
+	public double berekenOppervlakte() {
+		return lengte*breedte;
+	}
+
+	public double getBreedte() {
+		return breedte;
+	}
+	
+	public double getLengte() {
+		return lengte;
+	}
+
+}

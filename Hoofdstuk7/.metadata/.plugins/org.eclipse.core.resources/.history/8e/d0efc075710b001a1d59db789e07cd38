@@ -1,0 +1,22 @@
+package ui;
+
+import java.util.Scanner;
+
+import domein.Matrix;
+
+public class MatrixApplicatie {
+
+	public static void main(String[] args) {
+		Scanner inputScanner = new Scanner(System.in);
+		
+		System.out.print("Geef het aantal rijen van de matrix: ");
+		int rijen = inputScanner.nextInt();
+		System.out.print("Geef het aantal kolommen van de matrix: ");
+		int kolommen = inputScanner.nextInt();
+		
+		Matrix m = new Matrix(rijen, kolommen);
+		
+
+	}
+
+}

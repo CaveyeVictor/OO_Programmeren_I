@@ -1,0 +1,32 @@
+package ui;
+
+import java.util.Iterator;
+import java.util.Scanner;
+
+import domein.MijnGetallen;
+
+public class PriemtweelingApplicatie {
+	static Scanner input = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		
+		
+		int i = 0;
+		while (i < 5) {
+			int getallen[] = new int [2];
+			for (int k : getallen) {
+				getallen[k] = voerGetalIn(String.format("Geef getal %d in: ", k));
+			}
+
+			MijnGetallen a = new MijnGetallen(getallen[0], getallen[1]);
+			System.out.printf("%d en %d vormen %S priemtweeling%n", getallen[0], getallen[1], a.isPriemtweeling() ? "een" : "geen");
+			i++;
+		}
+	}
+	
+	private static int voerGetalIn(String vraag) {
+		System.out.print(vraag);
+		return input.nextInt();
+	}
+
+}

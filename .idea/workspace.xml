@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/10/800976c3c6e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/14/a0e28f08c4e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/15/10c18636c9e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/15/b014a4fd130d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1d/80f6508d110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1f/508b25df170d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/23/304cbf3b0d0d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/25/100b146dc5e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/27/d0ab2886180d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2a/a085c99ac8e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2b/f0ba0c8ac5e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2c/f0d46d91150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2d/f0a4b10a150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2e/c0efdd0f86e600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/31/900abe4ec4e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/34/60a7c644170d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/37/80d74cdf190d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/37/d0ba4a49150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/38/60766464c7e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/39/b0c505f9190d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3e/f021c7da110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/42/405022e9c5e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/42/a0d2e8b1c7e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/45/70b8f7a40f0d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/45/e01338be120d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/49/b0bc98e88ae600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/49/d099e591110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/49/f0ff123bc9e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4e/009975468de600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4e/10cd419c0f0d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/50/60995773100d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/52/e0c8733a8be600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/57/f06dd0a78ee600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/59/402a41998ee600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/59/707d2a4fc3e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5b/90882a9e05ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5f/e0ea8332120d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/66/0024d90e140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/68/40175bcf110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6c/20a33660110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6c/60e66bc6c5e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6d/80b49fd5110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7/10824f20140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/70/601cece6110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/71/007c6760c3e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/73/000e47a9120d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/78/70f5146dc5e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/7c/c03c7d9f04ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8/b09aa2d5110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8a/e052f7a205ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8b/00ec3e1b88e600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8c/c01f0970120d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8d/00338684c4e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9/20d051db8de600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/99/6099c19690e600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9d/708994ed8ee600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9d/f0bc736d140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/10c8032405ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a1/f0d658ae1a0d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a6/b08a4458160d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a7/b011c2e004ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a9/409a868c140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/aa/10299978110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ad/b02be2758be600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/af/c0031e01150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b0/307af4f9130d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b1/90d5fc90130d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b3/100158ca190d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b5/208e9f98110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ba/e09afd9f05ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/be/f0bc08f3120d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c0/e0bd42c28ae600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c1/602f4c56110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c5/3068d8ae0f0d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c6/e0c3334605ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c7/10036d2e120d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c8/e0fcf5b2c7e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c9/10b4b2c88ee600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c9/a042303fc4e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ca/e0f81707140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cb/002c04bbc6e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ce/20ca1cd104ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d4/60c2cd97150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d4/80d2de88150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d5/30075c19140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d6/e0569f098fe600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d7/204a18fe8ee600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e0/908d9aaac7e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e1/f0966087150d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e2/c0b0cbd4130d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e2/d0ad1fa789e600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e4/a09ccaa7110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ea/206b1f84140d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ea/90e5826c1a0d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f/203afcf3110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f1/70d1cb3d05ec00191dddec47c127594a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f2/10656b8f90e600191e90ec95e9bba66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f8/b03b450fc7e900191110a0efe861eb07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fa/408e8736110d001a198cb86e3def4e78" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk1/3.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2/.indexes/e4/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2VoorbeeldCode/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2VoorbeeldCode/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2VoorbeeldCode/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2VoorbeeldCode/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk2VoorbeeldCode/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk3/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk3/.indexes/e4/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk3/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk3/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk3/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Hoofdstuk3/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H4/.indexes/e4/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H4/.indexes/f7/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H4/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H4/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H4/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H4/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Lesvoorbeeld/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/MijnEerstProject/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/e4/fa/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/OefeningenH2/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Test1/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/AchterstevorenApp.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Applicatie1.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Applicatie2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Applicatie3.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Applicatie4.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Applicatie5.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Extra.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Extra2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Lesvoorbeeld.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/MenuApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/MenuApplicatie2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Mystery.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Mystery2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Oefening3.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Oefening4.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Oefening5.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/PriemtweelingApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/RechthoekTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/mystery.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.eclemma.core/.execdata/session18385200205169669604.exec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1024328893.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1315219342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1395385645.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2166399776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2176160458.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/226338588.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2275066976.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2895473088.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3031273083.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3089864663.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3282747117.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3541617440.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3547811466.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3910919274.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3921461396.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/765779905.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/775219095.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/848443394.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.junit/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/40/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/40/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/41/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/41/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Hoofdstuk3/2019/10/41/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Hoofdstuk3/2019/10/41/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Leerpaden_H4/2019/10/40/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Leerpaden_H4/2019/10/40/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening1/2019/11/47/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening1/2019/11/47/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.12.0.20190529-1916.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/bin/Kassa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/bin/Som.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk1/bin/Telraam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Extra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Extra2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Lesvoorbeeld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Lesvoorbeeld2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk2/bin/Oefening8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/0/50e1fb94e2ec00191f37ab14ad0596ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/13/60a30f240fec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/1a/a045565109ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/2/7031a68807ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/26/f07188c9e1ec00191f37ab14ad0596ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/2e/a0fe26fe09ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/30/00a055580cec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/3c/e0fff7a8e2ec00191f37ab14ad0596ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/3f/a04121350eec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/4b/803b2b8507ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/4c/f033a05b08ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/54/d02de6f408ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/56/b034cc1f0cec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/59/00788966e2ec00191f37ab14ad0596ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/60/b0da2db609ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/64/50a2907507ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/69/f0bfb2af10ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/6a/d09ec5d30bec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/77/606e967408ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/86/d09ac9160aec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/95/d02ce28a09ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/97/c0e3b25f0dec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/a4/00731e5e0bec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/a9/80a9460e0eec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/ad/40e22e7908ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/b/e08dea0b0aec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/b3/2079e1720dec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/b5/304e72e20eec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/ba/60b161b608ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/bc/0060939f08ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/c3/80a60eae08ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/c5/500a69c20bec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/cd/e049ee9f0bec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/d/d0a7973b0fec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/d3/700249a10cec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/d4/60f3aafb0fec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/d7/d0713db408ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/db/a0831b550cec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/dc/30b9efb60bec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/dd/607c94430fec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/e1/70f94ef20eec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/e1/e07ce9ac07ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/e5/0066cb2d0fec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/e7/60c44f140eec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/ea/5089357611ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/ea/e01da7240eec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/eb/20b4526e0bec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/f3/4053df6207ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/f6/90cd5c1e09ec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.history/fe/10348d720cec0019133780e31c8aac1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductVersie1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.projects/RechthoekVersie2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.core/.launches/ProductApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.core/.launches/ProductTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.core/.launches/RechthoekApplicatie (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.core/.launches/RechthoekApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.core/.launches/RechthoekTest (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.core/.launches/RechthoekTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/1024328893.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/1315219342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/1395385645.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/2166399776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/226338588.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/2275066976.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/2895473088.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/3089864663.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/3103747909.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/3541617440.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/3547811466.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/3910919274.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/3921461396.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/4254340972.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/569786111.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/775219095.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/848443394.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/909626990.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.junit/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/RechthoekVersie1/2019/10/41/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/RechthoekVersie1/2019/10/41/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/RechthoekVersie2/2019/10/41/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/RechthoekVersie2/2019/10/41/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/ProductVersie1/bin/domein/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/ProductVersie1/bin/testen/ProductTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/ProductVersie1/bin/ui/ProductApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/RechthoekVersie1/bin/domein/Rechthoek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/RechthoekVersie1/bin/testen/RechthoekTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/RechthoekVersie1/bin/ui/RechthoekApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/RechthoekVersie2/bin/domein/Rechthoek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/RechthoekVersie2/bin/testen/RechthoekTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk3/RechthoekVersie2/bin/ui/RechthoekApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Applicatie1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Applicatie1/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Applicatie1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Applicatie1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/GetallenApplicatie/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/GetallenApplicatie/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/GetallenApplicatie/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/GetallenApplicatie/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/IJskar/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/IJskar/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/IJskar/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/IJskar/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Lidgeld/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Lidgeld/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Lidgeld/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/Lidgeld/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/priemgetallen/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/priemgetallen/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/priemgetallen/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.projects/priemgetallen/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.root/6.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.net.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.oomph.workingsets.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/GetallenApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/IjsApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/IjsTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/LidApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/LidTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/MeerkeuzeApplicatie1A.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/MeerkeuzeApplicatie1B.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/MijnGetallenTest.isPriemTweeling_getal1GeenPriemGetallen_retourneertFalse.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/MijnGetallenTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.core/.launches/PriemtweelingApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/1011459572.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/1024328893.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/1315219342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/1395385645.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/1493943795.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/1634266114.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/2166399776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/226338588.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/2275066976.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/2895473088.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/3089864663.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/3541617440.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/3547811466.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/3660188855.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/3910919274.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/3921461396.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/4008474650.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/775219095.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/848443394.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/909626990.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.junit/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/42/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/10/42/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/IJskar/2019/10/42/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/IJskar/2019/10/42/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/priemgetallen/2019/10/42/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/priemgetallen/2019/10/42/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Applicatie1/bin/ui/MeerkeuzeApplicatie1A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Applicatie1/bin/ui/MeerkeuzeApplicatie1B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/GetallenApplicatie/bin/ui/GetallenApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/IJskar/bin/domein/IJs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/IJskar/bin/testen/IjsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/IJskar/bin/ui/IjsApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Lidgeld/bin/domein/Lid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Lidgeld/bin/testen/LidTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/Lidgeld/bin/ui/LidApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/priemgetallen/bin/domein/MijnGetallen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/priemgetallen/bin/testen/MijnGetallenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk4/priemgetallen/bin/ui/PriemtweelingApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/1/c029df9b0df7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/11/c0aba4fd2cf700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/14/80c3f8c209f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/16/206e8c680df7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/18/b0e96fb805f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/19/707a310a06f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/1a/2032f85207f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/1b/707529fa31f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/20/600710ec18f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/20/807853c60ff7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/20/c0428a9310f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/21/401683ac05f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/22/302d06d818f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/22/6022643605f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/22/c0c5562205f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/24/10f1417807f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/28/90a1cb3a0df7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/29/8003d15f18f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/2e/c0ad76b631f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/31/70cfdff430f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/3c/4011fcb50af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/3d/50efe8f30ff7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/3e/f0901f1607f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/3f/90a8195a0cf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/41/c03a16160af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/43/c0f0830c18f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/45/e0260cce09f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/46/703bd3f809f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/4a/e0a3862f2ef700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/4d/8018858b0af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/4e/10aa04c20af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/4f/4067d05f18f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/54/9023448e2df700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/57/70e7c9c30ff7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/58/a069ff8709f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5c/30d17d600bf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5e/7033d9ef0ff7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5e/90166dc20ff7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5e/d001964b05f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5f/0086f3d70cf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5f/608f71c631f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/5f/900bb46431f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/61/e0ad9cab05f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/63/102e7cff30f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/64/90feed031af7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/65/20c51e5131f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/66/60dcf67415f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/66/e056769110f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/67/10af5fdb31f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6a/b04323510af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6b/00fc4be931f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6c/c07a431403f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6d/10209b231af7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6d/60f7845b17f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6d/b08ca61632f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/6f/000d3dd516f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7/b0fc2e9209f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/74/c02423460bf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/76/80ac167c17f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/76/a08fd4a531f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7a/706303e209f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7b/00bf54d105f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7b/606ffd8c04f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7c/70fa519804f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7c/a003c07615f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/7d/c033a99909f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/80/5000f3ad0df7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/81/a0a5c14e0df7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/82/10f8dca505f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/84/8099f18905f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/84/9035e09009f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/87/60db262617f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/88/d015421d2df700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/8b/e0667d071af7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/8e/9009720b2ef700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/9/80c612460af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/90/d0297c9f11f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/92/a021b71c32f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/95/10157c7f0bf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/95/506af10507f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/98/d038fc880cf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/9d/006fbe1818f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/9d/f0b790c807f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/9f/70f4fe8709f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/a0/606921780af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/a3/407a96ee0ff7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/ae/20c3ba3832f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/b1/7056857231f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/b1/b0c585e504f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/b6/0010796330f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/b9/80dad95d30f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/ba/10cf66b60cf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/bb/b08fe69416f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/bc/201dccab17f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c/00c01ba70df7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c/d01e004e17f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c0/60db132c1af7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c4/30296b6e03f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c8/b0623d720af7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c8/f008c8e32cf700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/c9/6044a8f331f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/cd/20f26a272df700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/d/3013fd6d05f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/d/806f9cc205f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/d0/505ddea617f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/d2/509c2fb02df700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/d5/70dd3b9e18f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/e1/7005358209f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/e1/b03929a217f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/e3/c084974c30f700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/e5/c02db4af0cf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/e8/c0a6c5862df700191718c82ec67b822b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/e9/30cc6e0309f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/ec/90af16fa17f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/ef/909323ec11f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/f0/a08eaf9904f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/f3/c098526917f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/f3/f09a327517f7001912e5cb2074f408c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/f4/602a11660cf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/f8/f03a535e09f7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/f9/40e69b9a0bf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.history/fc/306c0eda0bf7001913bbab077b04721d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H5/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H5/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H5/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden_H5/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/e4/45/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/e4/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.root/7.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.oomph.workingsets.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/BerekeningApplicatie1.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/BerekeningApplicatie2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/BerekeningApplicatie3.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/BerekeningTest (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/BerekeningTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/SpelerApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/SpelerTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.core/.launches/deel1.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/1024328893.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/1315219342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/1395385645.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/1573792590.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/2166399776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/226338588.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/2275066976.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/2895473088.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3031273083.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3089864663.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3282747117.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3541617440.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3547811466.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3910919274.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/3921461396.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/4146575117.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/765779905.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/775219095.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/848443394.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/909626990.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.junit/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening2/2019/10/43/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening2/2019/10/43/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening4/2019/10/43/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening4/2019/10/43/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Leerpaden_H5/bin/deel1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening1/bin/domein/Berekening.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening1/bin/testen/BerekeningTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening1/bin/ui/BerekeningApplicatie1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening2/bin/domein/Berekening.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening2/bin/testen/BerekeningTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening2/bin/ui/BerekeningApplicatie2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening3/bin/domein/Berekening.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening3/bin/testen/BerekeningTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening3/bin/ui/BerekeningApplicatie3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening4/bin/domein/Speler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening4/bin/testen/SpelerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk5/Oefening4/bin/ui/SpelerApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/Leerpaden/bin/Oefening1/Oef1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/Leerpaden/bin/Oefening2/Oef2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/Leerpaden/bin/Oefening3/Oef3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/bin/ui/MenuApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/bin/ui/MenuApplicatie2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening2/bin/ui/AchterstevorenApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/bin/PriemtweelingTest/PriemtweelingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/bin/domein/MijnGetallen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/bin/ui/PriemtweelingApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/bin/domein/Punt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/bin/ui/PuntApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening1/src/domein/TemperatuurBewerking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening1/src/testen/TemperatuurBewerkingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening1/src/ui/Hoofdstuk7_oef1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening2/src/domein/DatumOperaties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening2/src/testen/DatumOperatiesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/bin/oefening2/src/ui/Hoofdstuk7_oef2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/bin/domein/TemperatuurBewerking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/bin/testen/TemperatuurBewerkingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/bin/ui/Hoofdstuk7_oef1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/src/domein/TemperatuurBewerking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/src/testen/TemperatuurBewerkingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1/src/ui/Hoofdstuk7_oef1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/bin/domein/DatumOperaties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/bin/testen/DatumOperatiesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/bin/ui/Hoofdstuk7_oef2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/src/domein/DatumOperaties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/src/testen/DatumOperatiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/src/ui/Hoofdstuk7_oef2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.history/8e/d0efc075710b001a1d59db789e07cd38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.history/af/a056f7e16f0b001a1d59db789e07cd38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.history/d0/906a2d496f0b001a1d59db789e07cd38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.history/e2/e0156a936f0b001a1d59db789e07cd38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/H7SlidesVoorbeeldObjecten/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/H7SlidesVoorbeeldObjecten/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/H7SlidesVoorbeeldObjecten/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/H7SlidesVoorbeeldObjecten/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening3/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/e4/38/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/e4/94/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/Oefening4/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/SlidesOef2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/SlidesOef2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/SlidesOef2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.projects/SlidesOef2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/MarktkraamApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/MarktkraamTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/MatrixApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/MatrixTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/Oef2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/Oefening2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.core/.launches/RekeningApplicatie.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/1024328893.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/1061870544.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/1315219342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/1395385645.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/1573792590.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/2166399776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/2176160458.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/226338588.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/2275066976.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/2895473088.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3031273083.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3063582359.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3089864663.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3282747117.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3541617440.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3547811466.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3910919274.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/3921461396.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/765779905.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/775219095.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/848443394.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.junit/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening3/2019/11/46/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening3/2019/11/46/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening4/2019/11/46/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Oefening4/2019/11/46/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/H7SlidesVoorbeeldObjecten/bin/domein/Rekening.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/H7SlidesVoorbeeldObjecten/bin/ui/RekeningApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening1/bin/Oefening1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening2/bin/Oefening2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening3/bin/domein/Marktkraam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening3/bin/testen/MarktkraamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening3/bin/ui/MarktkraamApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening4/bin/domein/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening4/bin/testen/MatrixTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening4/bin/ui/MatrixApplicatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/Oefening6/bin/Oef6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk7/SlidesOef2/bin/Oef2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.history/ba/40c5dbf0bc11001a1ef5ff466396db65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.history/de/b00c7f0dbe11001a1ef5ff466396db65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.history/ff/40bf160bbe11001a1ef5ff466396db65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.indexes/e4/61/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.indexes/e4/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/2176160458.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/3407069065.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/4106573776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS_linux/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/Rekening.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/RekeningOperaties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/ui/Oefening7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening1/src/ui/MenuApplicatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/src/ui/MenuApplicatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening1/src/ui/MenuApplicatie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/src/ui/MenuApplicatie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening2/src/ui/AchterstevorenApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening2/src/ui/AchterstevorenApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/src/domein/MijnGetallen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/src/domein/MijnGetallen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/src/testen/MijnGetallenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/src/testen/MijnGetallenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/src/testen/MijnGetallenTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/src/testen/MijnGetallenTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/src/testen/MijnGetallenTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/src/testen/MijnGetallenTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3/src/ui/PriemtweelingApplicatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3/src/ui/PriemtweelingApplicatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3_Desktop/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3_Desktop/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3_Desktop/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3_Desktop/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3_Desktop/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3_Desktop/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3_Desktop/src/domein/MijnGetallen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3_Desktop/src/domein/MijnGetallen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening3_Desktop/src/testen/MijnGetallenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening3_Desktop/src/testen/MijnGetallenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening4/src/domein/Punt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/src/domein/Punt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening4/src/testen/PuntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/src/testen/PuntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/Oefening4/src/ui/PuntApplicatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening4/src/ui/PuntApplicatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Announcement.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Announcement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Driehoek.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Driehoek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/META-INF/OO_Programmeren_I.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Newspaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Newspaper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oef6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oef6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening1/Oef1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening1/Oef1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening2/Oef2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening2/Oef2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening3/Oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening3/Oef3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefeningen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Publication.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Publication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/TesterOefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/TesterOefeningen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/deel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/deel1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/applicatie/Oefening4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/applicatie/Oefening4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/domein/Doos.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/domein/Doos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening5/Oef5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening5/Oef5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/domein/Vierkant.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/domein/Vierkant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/ui/Oef6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/ui/Oef6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/BreakTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/BreakTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ContinueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ContinueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/DoWhileControle.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/DoWhileControle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ForCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ForCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/GetallenApplicatie.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/GetallenApplicatie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LetterGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LetterGrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LogicalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LogicalOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1B.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/WhileCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/WhileCounter.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="52e7bcfc-2329-4236-b736-f1cf35675698" />
+  </component>
+  <component name="ProjectId" id="1RgQHXHuYEmmyQWuSvyeY6tcOPm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1" />
+      <recent name="$PROJECT_DIR$/Hoofdstuk6_8/deel1" />
+      <recent name="$PROJECT_DIR$/Hoofdstuk2" />
+      <recent name="$PROJECT_DIR$/Hoofdstuk6_8" />
+      <recent name="$PROJECT_DIR$/Leerpaden_H4/IntelliJ" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Hoofdstuk7_oef1">
+    <configuration name="Hoofdstuk7_oef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Hoofdstuk7_oef1" />
+      <module name="OO_Programmeren_I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oefening1.Oef1" />
+      <module name="OO_Programmeren_I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oefening1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oef2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oefening2.Oef2" />
+      <module name="OO_Programmeren_I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oefening2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oef3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oefening3.Oef3" />
+      <module name="OO_Programmeren_I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oefening3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oef6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oefening6.ui.Oef6" />
+      <module name="OO_Programmeren_I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oefening6.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hoofdstuk7_oef1" />
+        <item itemvalue="Application.Oef6" />
+        <item itemvalue="Application.Oef3" />
+        <item itemvalue="Application.Oef2" />
+        <item itemvalue="Application.Oef1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="" />
+      <created>1570086172023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570086172023</updated>
+      <workItem from="1570086176759" duration="187000" />
+      <workItem from="1570087425597" duration="2970000" />
+      <workItem from="1570120636911" duration="13000" />
+      <workItem from="1570178344776" duration="94000" />
+      <workItem from="1570178458831" duration="2859000" />
+      <workItem from="1570376925218" duration="101000" />
+      <workItem from="1570521854553" duration="222000" />
+      <workItem from="1570538676740" duration="74000" />
+      <workItem from="1570876004360" duration="361000" />
+      <workItem from="1570879487351" duration="261000" />
+      <workItem from="1571156545706" duration="344000" />
+      <workItem from="1571394228995" duration="133000" />
+      <workItem from="1571397332752" duration="60000" />
+      <workItem from="1571584082831" duration="98000" />
+      <workItem from="1571671760582" duration="116000" />
+      <workItem from="1572013105818" duration="554000" />
+      <workItem from="1572353425263" duration="51000" />
+      <workItem from="1573206297861" duration="246000" />
+      <workItem from="1573207506314" duration="718000" />
+      <workItem from="1573224513672" duration="67000" />
+      <workItem from="1573718959998" duration="58000" />
+      <workItem from="1573719069978" duration="1290000" />
+      <workItem from="1573727587655" duration="1141000" />
+      <workItem from="1573734880772" duration="1298000" />
+      <workItem from="1574239321151" duration="672000" />
+      <workItem from="1574419611453" duration="290000" />
+      <workItem from="1574421910189" duration="72000" />
+      <workItem from="1574435786419" duration="205000" />
+      <workItem from="1574436158907" duration="3338000" />
+      <workItem from="1574931397778" duration="7044000" />
+      <workItem from="1574946724650" duration="1039000" />
+      <workItem from="1575548095963" duration="454000" />
+      <workItem from="1575621862420" duration="4625000" />
+    </task>
+    <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
+      <created>1570089601746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570089601746</updated>
+    </task>
+    <task id="LOCAL-00002" summary="H2-in de les + H4 leerpaden verder">
+      <created>1570098238711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570098238712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="H2 werkcollege">
+      <created>1570184489016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570184489016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="H4_leerpaden">
+      <created>1570538721344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570538721344</updated>
+    </task>
+    <task id="LOCAL-00005" summary="H3">
+      <created>1570876080589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570876080589</updated>
+    </task>
+    <task id="LOCAL-00006" summary="H3 gedaan">
+      <created>1570879712089</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570879712089</updated>
+    </task>
+    <task id="LOCAL-00007" summary="H4 oefeningen">
+      <created>1571397360058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571397360058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="H5-Leerpad">
+      <created>1571671823487</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571671823487</updated>
+    </task>
+    <task id="LOCAL-00009" summary="H5-oefeningen">
+      <created>1572013145928</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572013145928</updated>
+    </task>
+    <task id="LOCAL-00010" summary="H7 - oefeningen">
+      <created>1572353452893</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572353452893</updated>
+    </task>
+    <task id="LOCAL-00011" summary="H7 - oefeningen - deel 2">
+      <created>1573224547993</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573224547993</updated>
+    </task>
+    <task id="LOCAL-00012" summary="H7 - oefeningen - deel 3">
+      <created>1574239384351</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574239384351</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Oefeningen H6_8">
+      <created>1574419723068</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574419723069</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Oefeningen H6_8">
+      <created>1574419877083</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574419877083</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Oefeningen H6_8 - deel 2">
+      <created>1574421931932</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574421931932</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Oefeningen H6_8 - deel 3">
+      <created>1574439451564</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574439451564</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Oefeningen H6_8 - leera">
+      <created>1574939642208</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574939642208</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactored">
+      <created>1574947143937</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574947143937</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Refactored">
+      <created>1575548187527</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575548187527</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Refactored">
+      <created>1575548375249</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575548375249</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Alles omgezet naar Eclipse Project" />
+    <MESSAGE value="H2-in de les + H4 leerpaden verder" />
+    <MESSAGE value="H2 werkcollege" />
+    <MESSAGE value="H4_leerpaden" />
+    <MESSAGE value="H3" />
+    <MESSAGE value="H3 gedaan" />
+    <MESSAGE value="H4 oefeningen" />
+    <MESSAGE value="H5-Leerpad" />
+    <MESSAGE value="H5-oefeningen" />
+    <MESSAGE value="H7 - oefeningen" />
+    <MESSAGE value="H7 - oefeningen - deel 2" />
+    <MESSAGE value="H7 - oefeningen - deel 3" />
+    <MESSAGE value="Oefeningen H6_8" />
+    <MESSAGE value="Oefeningen H6_8 - deel 2" />
+    <MESSAGE value="Oefeningen H6_8 - deel 3" />
+    <MESSAGE value="Oefeningen H6_8 - leera" />
+    <MESSAGE value="Refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575548319282">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1575548319282" />
+    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575548375092">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575548375092" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575548378312">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575548378312" />
+    <state x="736" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575548276135">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="736" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575548276135" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+!SESSION 2019-10-11 11:02:21.895 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=13
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 2 2019-10-11 11:02:33.125
+!MESSAGE com.vp.vpsde.ec.views.PropertyPaneView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2019-10-11 11:02:33.126
+!MESSAGE com.vp.vpsde.ec.views.ModelTreeView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2019-10-11 11:02:33.126
+!MESSAGE com.vp.vpsde.ec.views.PreviewPaneView: Deprecated relationship "fast" should be converted to "stack".

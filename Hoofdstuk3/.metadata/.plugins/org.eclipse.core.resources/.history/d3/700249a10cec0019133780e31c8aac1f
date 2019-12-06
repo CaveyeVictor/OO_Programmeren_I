@@ -1,0 +1,13 @@
+package domein;
+
+public class Product {
+	
+	private String naam;
+	private double prijsExclBtw;
+	private int btwPercentage, korting6StuksPercentage;
+	
+	public Product(String naam, double prijsExclBtw, int btwPercentage, int korting6StuksPercentage) {
+		
+	}
+
+}
