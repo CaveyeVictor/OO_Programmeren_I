@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden/h4/out/production/h4/META-INF/Oefeningen.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Driehoek.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Driehoek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Mystery.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Mystery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Mystery2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Mystery2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Oefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Oefeningen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/TesterOefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/TesterOefeningen.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hoofdstuk4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -190,7 +198,8 @@
       <workItem from="1574931397778" duration="7044000" />
       <workItem from="1574946724650" duration="1039000" />
       <workItem from="1575548095963" duration="454000" />
-      <workItem from="1575621862420" duration="6862000" />
+      <workItem from="1575621862420" duration="6911000" />
+      <workItem from="1575644000421" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
       <created>1570089601746</created>
@@ -353,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575629906353</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="H6_8 deel 2 oef 3 domein klaar">
+      <created>1575631808138</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1575631808138</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,21 +409,42 @@
     <MESSAGE value="Refactored" />
     <MESSAGE value="Hoofdstuk6_8 - deel 2 - oef 1 &amp; 2" />
     <MESSAGE value="Verbetering H6_8 deel 1 oef 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Verbetering H6_8 deel 1 oef 1" />
+    <MESSAGE value="H6_8 deel 2 oef 3 domein klaar" />
+    <option name="LAST_COMMIT_MESSAGE" value="H6_8 deel 2 oef 3 domein klaar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575548319282">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1575548319282" />
-    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575629906224">
+    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575631808024">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575629906224" />
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575629907876">
+    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575631808024" />
+    <state x="743" y="260" key="FileChooserDialogImpl" timestamp="1575645379963">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575629907876" />
+    <state x="743" y="260" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1575645379963" />
+    <state width="910" height="189" key="GridCell.Tab.0.bottom" timestamp="1575631834094">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="910" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1575631834094" />
+    <state width="910" height="189" key="GridCell.Tab.0.center" timestamp="1575631834094">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="910" height="189" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1575631834094" />
+    <state width="910" height="189" key="GridCell.Tab.0.left" timestamp="1575631834093">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="910" height="189" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1575631834093" />
+    <state width="910" height="189" key="GridCell.Tab.0.right" timestamp="1575631834094">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="910" height="189" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1575631834094" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575631811929">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575631811929" />
     <state x="736" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575548276135">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
