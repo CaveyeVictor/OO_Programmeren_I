@@ -4,18 +4,6 @@
     <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden/h4/out/production/h4/META-INF/Oefeningen.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Applicatie6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Applicatie6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Driehoek.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Driehoek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Mystery.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Mystery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Mystery2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Mystery2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/Oefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/Oefeningen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leerpaden_H4/bin/TesterOefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk4/LP4/Leerpaden_H4/bin/TesterOefeningen.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +45,15 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hoofdstuk4/LP4" />
+      <recent name="$PROJECT_DIR$/Hoofdstuk4" />
       <recent name="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening1" />
       <recent name="$PROJECT_DIR$/Hoofdstuk6_8/deel1" />
       <recent name="$PROJECT_DIR$/Hoofdstuk2" />
-      <recent name="$PROJECT_DIR$/Hoofdstuk6_8" />
-      <recent name="$PROJECT_DIR$/Leerpaden_H4/IntelliJ" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Hoofdstuk7_oef1">
@@ -199,7 +187,7 @@
       <workItem from="1574946724650" duration="1039000" />
       <workItem from="1575548095963" duration="454000" />
       <workItem from="1575621862420" duration="6911000" />
-      <workItem from="1575644000421" duration="694000" />
+      <workItem from="1575644000421" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
       <created>1570089601746</created>
@@ -369,7 +357,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575631808138</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="H6_8 deel 2 oef 3 domein klaar">
+      <created>1575645458879</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1575645458879</updated>
+    </task>
+    <task id="LOCAL-00026" summary="H6_8 deel 2 oef 3 domein klaar">
+      <created>1575645602844</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1575645602844</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,10 +419,10 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1575548319282" />
-    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575645458503">
+    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575645602721">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575645458503" />
+    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575645602721" />
     <state x="743" y="260" key="FileChooserDialogImpl" timestamp="1575645379963">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
@@ -441,10 +443,10 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state width="910" height="189" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1575631834094" />
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575645460510">
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575645604002">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575645460510" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575645604002" />
     <state x="736" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575548276135">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
