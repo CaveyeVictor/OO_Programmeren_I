@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/src/ui/MenuApplicatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel1/Oefening1/src/ui/MenuApplicatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +190,7 @@
       <workItem from="1574931397778" duration="7044000" />
       <workItem from="1574946724650" duration="1039000" />
       <workItem from="1575548095963" duration="454000" />
-      <workItem from="1575621862420" duration="6040000" />
+      <workItem from="1575621862420" duration="6862000" />
     </task>
     <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
       <created>1570089601746</created>
@@ -345,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575628746642</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Verbetering H6_8 deel 1 oef 1">
+      <created>1575629906353</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1575629906353</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,14 +400,14 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1575548319282" />
-    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575628746536">
+    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575629906224">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575628746536" />
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575628747841">
+    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575629906224" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575629907876">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575628747841" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575629907876" />
     <state x="736" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575548276135">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>

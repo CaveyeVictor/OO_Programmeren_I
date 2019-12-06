@@ -2,17 +2,30 @@ package domein;
 
 public class Winkel {
     public void vulVerkoopcijfersOp(double[][] dest, double[] source){
-        int i = 0;
+        int rij = 0, col = 0;
         for (double s: source){
-            dest[i/dest[0].length][i%dest[0].length] = s;
+            dest[rij][col] = s;
+            col++;
+            if (col >= dest[0].length) {
+				rij++;
+				col = 0;
+			}
         }
     }
 
-    public void berekenSomPerDag(double[][] verkoopcijfers, double[] dag){
-
+    public double berekenSomPerDag(double[][] verkoopcijfers, int dag){
+        double som = 0;
+        for (double[] week: verkoopcijfers){
+            som += week[dag];
+        }
+        return som;
     }
 
-    public void berekenSomPerProduct(double[][] verkoopcijfers, double[] dag){
-
+    public double berekenSomPerProduct(double[] VerkoopCijfersVanProduct1){
+        double som = 0;
+        for (double dag: VerkoopCijfersVanProduct1){
+        	som+= dag;
+        }
+        return som;
     }
 }
