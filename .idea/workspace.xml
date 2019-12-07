@@ -2,9 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/testen/WinkelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening4/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening4/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening4/src/domein/DatumOperaties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening4/src/domein/Simulatie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening4/src/domein/ZelfdeDagJarig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/mystery.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/domein/Winkel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/domein/Winkel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/src/ui/Hoofdstuk7_oef3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Announcement.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Announcement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Driehoek.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Driehoek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Newspaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Newspaper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oef6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oef6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening1/Oef1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening1/Oef1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening2/Oef2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening2/Oef2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening3/Oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening3/Oef3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefeningen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Publication.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Publication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/TesterOefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/TesterOefeningen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/deel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/deel1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/applicatie/Oefening4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/applicatie/Oefening4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/domein/Doos.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/domein/Doos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening5/Oef5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening5/Oef5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/domein/Vierkant.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/domein/Vierkant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/ui/Oef6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/ui/Oef6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/Rekening.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/Rekening.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/RekeningOperaties.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/RekeningOperaties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/ui/Oefening7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/ui/Oefening7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/BreakTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/BreakTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ContinueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ContinueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/DoWhileControle.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/DoWhileControle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ForCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ForCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/GetallenApplicatie.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/GetallenApplicatie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LetterGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LetterGrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LogicalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LogicalOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1B.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/WhileCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/WhileCounter.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +104,6 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Hoofdstuk4/LP4" />
       <recent name="$PROJECT_DIR$/Hoofdstuk4" />
@@ -55,8 +111,23 @@
       <recent name="$PROJECT_DIR$/Hoofdstuk6_8/deel1" />
       <recent name="$PROJECT_DIR$/Hoofdstuk2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hoofdstuk7/Oefening3_Desktop/src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Hoofdstuk7_oef1">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Hoofdstuk7_oef3">
     <configuration name="Hoofdstuk7_oef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ui.Hoofdstuk7_oef1" />
       <module name="OO_Programmeren_I" />
@@ -70,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oefening1.Oef1" />
+    <configuration name="Hoofdstuk7_oef3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Hoofdstuk7_oef3" />
       <module name="OO_Programmeren_I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oefening1.*" />
+          <option name="PATTERN" value="ui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,25 +195,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hoofdstuk7_oef3" />
         <item itemvalue="Application.Hoofdstuk7_oef1" />
         <item itemvalue="Application.Oef6" />
         <item itemvalue="Application.Oef3" />
         <item itemvalue="Application.Oef2" />
-        <item itemvalue="Application.Oef1" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -188,6 +247,7 @@
       <workItem from="1575548095963" duration="454000" />
       <workItem from="1575621862420" duration="6911000" />
       <workItem from="1575644000421" duration="1122000" />
+      <workItem from="1575712816019" duration="7976000" />
     </task>
     <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
       <created>1570089601746</created>

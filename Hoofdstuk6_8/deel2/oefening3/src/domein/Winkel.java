@@ -1,16 +1,18 @@
 package domein;
 
 public class Winkel {
-    public void vulVerkoopcijfersOp(double[][] dest, double[] source){
+    public double[][] vulVerkoopcijfersOp(double[][] dest, double[] source){
+        //hoe kan dit void zijn als je een erna een de dest moet gebruiken?
         int rij = 0, col = 0;
         for (double s: source){
+            if (col >= dest[0].length) {
+                rij++;
+                col = 0;
+            }
             dest[rij][col] = s;
             col++;
-            if (col >= dest[0].length) {
-				rij++;
-				col = 0;
-			}
         }
+        return dest;
     }
 
     public double berekenSomPerDag(double[][] verkoopcijfers, int dag){
