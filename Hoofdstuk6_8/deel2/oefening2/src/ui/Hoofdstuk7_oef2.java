@@ -10,15 +10,16 @@ public class Hoofdstuk7_oef2 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int dag;
-		
+
 		do {
 			System.out.printf("Geef dagnummer van het jaar: ");
 			dag = input.nextInt();
-			if (dag < 365) {
+			/*if (dag < 365) {
 				System.out.printf("dag %d = %s", dag, DatumOperaties.berekenDatumMetDagNummer(dag));
-			}
-
+				}*/
 		} while (dag > 365);
-	}
 
+		System.out.printf("dag %d = %s", dag, DatumOperaties.berekenDatumMetDagNummer(dag));
+
+	}
 }

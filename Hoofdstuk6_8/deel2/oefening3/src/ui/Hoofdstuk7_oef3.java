@@ -4,7 +4,7 @@ import domein.Winkel;
 
 public class Hoofdstuk7_oef3 {
 
-	private static String[] WEEKDAGEN = {"maandag",  "dinsdag",  "woensdag",  "donderdag",  "vrijdag"};
+	private final static String[] WEEKDAGEN = {"maandag",  "dinsdag",  "woensdag",  "donderdag",  "vrijdag"};
 	private static Winkel winkel = new Winkel();
 
 	public static void main(String[] args) {
@@ -56,7 +56,8 @@ public class Hoofdstuk7_oef3 {
 			for (double dag: week){
 				System.out.printf("%10.2f", dag);
 				// getallen zijn: 1.10 ipv 1,10
-				// Komt door door de local instellingen? (bij op op EN-UK)
+				// Komt door door de local instellingen? (bij mij op EN-UK)
+				// --> Ja
 			}
 		}
 	}

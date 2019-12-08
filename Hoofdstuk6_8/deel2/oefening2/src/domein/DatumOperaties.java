@@ -1,7 +1,7 @@
 package domein;
 
 public class DatumOperaties {
-    private static String[] MAANDEN = new String[]{
+    private final static String[] MAANDEN = new String[]{
             "januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"
     };
 
