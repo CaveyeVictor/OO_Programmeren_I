@@ -1,4 +1,5 @@
-/* package testen;
+//testen ok
+/*package testen;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
@@ -77,5 +78,4 @@ public class CirkelTest
         Assertions.assertEquals(4, c3.getStraal());
     }
 }
-
- */
+*/

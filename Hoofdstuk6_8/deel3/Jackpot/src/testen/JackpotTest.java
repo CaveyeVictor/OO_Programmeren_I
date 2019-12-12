@@ -1,3 +1,4 @@
+//test oke
 /*package testen;
 
 
@@ -73,5 +74,4 @@ public class JackpotTest
         Assertions.assertEquals(bedrag, juistBedrag);
     }
 }
-
- */
+*/

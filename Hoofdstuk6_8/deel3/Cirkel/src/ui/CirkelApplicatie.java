@@ -27,6 +27,9 @@ public class CirkelApplicatie {
 							leesCoordinaat('y'), leesStraal());
 					toonGegevens(cirkel);
 					break;
+				case 4:
+					System.out.println("Dag :)");
+					break;
 				default:
 					System.out.println("Foute keuze");
 			}

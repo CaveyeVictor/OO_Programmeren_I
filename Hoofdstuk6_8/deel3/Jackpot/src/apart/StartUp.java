@@ -1,3 +1,5 @@
+package apart;
+
 import domein.Jackpot;
 import ui.JackpotApplicatie;
 

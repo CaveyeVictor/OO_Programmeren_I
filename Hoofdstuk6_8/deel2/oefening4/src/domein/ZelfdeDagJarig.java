@@ -3,7 +3,7 @@ package domein;
 public class ZelfdeDagJarig {
     private int persoon1, persoon2, dagnr;
 
-    ZelfdeDagJarig(int persoon1, int persoon2, int dagnr){
+    public ZelfdeDagJarig(int persoon1, int persoon2, int dagnr){
         setPersoon1(persoon1);
         setPersoon2(persoon2);
         setDagnr(dagnr);

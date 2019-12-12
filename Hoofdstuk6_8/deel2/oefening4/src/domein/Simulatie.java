@@ -7,9 +7,8 @@ import java.util.List;
 public class Simulatie {
     private int[] persoon;
 
-    Simulatie(int aantalPersonen){
+    public Simulatie(int aantalPersonen){
         persoon = new int[aantalPersonen];
-        genereerVerjaardagen();
     }
 
     public List<ZelfdeDagJarig> maakSimulatie(){
@@ -26,10 +25,16 @@ public class Simulatie {
 
     public List<ZelfdeDagJarig> zoekJarigenOpDezelfdeDag (int[] allePersonen){
         List<ZelfdeDagJarig> list = new ArrayList<>();
-
-        //todo: ondeuidelijk wanneer je moet stopppen
+        int i = 0;
+        for (int dag: persoon){
+            for (int j = i+1; j < persoon.length; j++) {
+                if (dag == persoon[j]){
+                    list.add(new ZelfdeDagJarig(i, j, dag));
+                    //break; of niet? Opgave een beetje verwarrend.
+                }
+            }
+            i++;
+        }
         return list;
     }
-
-
 }

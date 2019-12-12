@@ -17,11 +17,11 @@ public class Jackpot {
         this.krediet = krediet;
     }
 
-    public int getSpelbedrag(){
+    public static int getSpelbedrag(){
         return SPELBEDRAG;
     }
 
-    public int getMaxwaarde(){
+    public static int getMaxwaarde(){
         return MAXWAARDE;
     }
 
@@ -41,7 +41,7 @@ public class Jackpot {
         setKrediet(krediet-SPELBEDRAG);
         //via setRes() worden3nieuwe waarden bepaald voor de random getallen
         setRes();
-        //todo: fout bij setKrediet? 
+        //set krediet na winst of niet. Er is al 2 van afgetrokken
         setKrediet(krediet+geefGewonnenBedrag());
     }
 
