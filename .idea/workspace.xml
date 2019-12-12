@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/src/domein/Cirkel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/src/domein/Punt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/src/ui/CirkelApplicatie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/src/StartUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/src/domein/Jackpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/src/testen/JackpotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Jackpot/src/ui/JackpotApplicatie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/domein/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/domein/Punt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/ui/MatrixApplicatie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/src/ui/Hoofdstuk7_oef2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening2/src/ui/Hoofdstuk7_oef2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel2/oefening3/bin/ui/Hoofdstuk7_oef3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/src/domein/Punt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Cirkel/src/domein/Punt.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +186,7 @@
       <workItem from="1575810256725" duration="1440000" />
       <workItem from="1575876761824" duration="261000" />
       <workItem from="1576081745227" duration="911000" />
-      <workItem from="1576137995820" duration="5408000" />
+      <workItem from="1576137995820" duration="5732000" />
     </task>
     <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
       <created>1570089601746</created>
@@ -413,7 +391,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575811310152</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Feedback gekregen en aangepast">
+      <created>1576148437981</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1576148437981</updated>
+    </task>
+    <task id="LOCAL-00031" summary="H6_8 - Deel 3 - Jackpot">
+      <created>1576148533420</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1576148533420</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +448,8 @@
     <MESSAGE value="H6_8 deel 2 oef 3 domein klaar" />
     <MESSAGE value="H6_8 deel 3 en stukje oef 4" />
     <MESSAGE value="Feedback gekregen en aangepast" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feedback gekregen en aangepast" />
+    <MESSAGE value="H6_8 - Deel 3 - Jackpot" />
+    <option name="LAST_COMMIT_MESSAGE" value="H6_8 - Deel 3 - Jackpot" />
   </component>
   <component name="WindowStateProjectService">
     <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575548319282">
