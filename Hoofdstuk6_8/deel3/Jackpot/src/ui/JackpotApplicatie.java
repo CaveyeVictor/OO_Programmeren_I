@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class JackpotApplicatie {
 
     public JackpotApplicatie(Jackpot jp){
-        int keuze = -1;
+        int keuze;
         do {
             keuze = voerKeuzeIn();
             switch (keuze){

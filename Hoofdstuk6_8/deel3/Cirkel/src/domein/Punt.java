@@ -9,6 +9,8 @@ public class Punt {
         setY(y);
     }
 
+
+
     public boolean vergelijkMetPunt(Punt punt){
         return x==punt.getX() && y==punt.getY();
     }
@@ -45,7 +47,7 @@ public class Punt {
 
     @Override
     public String toString(){
-        return String.format("(%d, %d", x, y);
+        return String.format("(%d, %d)", x, y);
     }
 
 
