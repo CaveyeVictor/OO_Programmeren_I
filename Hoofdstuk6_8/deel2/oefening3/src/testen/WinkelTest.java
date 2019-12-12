@@ -1,4 +1,4 @@
-package testen;
+/* package testen;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
@@ -66,3 +66,6 @@ public class WinkelTest
     	Assertions.assertEquals(25.0, winkel.berekenSomPerProduct(testGegevens[2]),0.001);
     }
 }
+
+
+ */

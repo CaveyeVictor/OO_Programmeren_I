@@ -1,7 +1,18 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 class Main {
     public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        String s = "";
+
+        while (input.hasNext()){
+            s += input.nextLine();
+        }
+        s = s.replaceAll("[ \n]", "\n");
+        System.out.println(s);
 
         /*
         Scanner input = new Scanner(System.in);
