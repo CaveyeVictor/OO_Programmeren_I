@@ -12,6 +12,7 @@ public class Plant {
     }
     
     public Plant(String plantennaam){
+        //zo een nieuwe array meegeven in methode/constructor!!!
     	this(plantennaam, false, new double[] {0.0, 0.0, 0.0, 0.0});
     }
 

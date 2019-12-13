@@ -2,147 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4d242c8-8f46-4dd2-bcc7-8fe52af639e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/src/testen/PlantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WS/.metadata/version.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OO_Programmeren_I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/domein/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/domein/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/ui/MatrixApplicatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hoofdstuk6_8/deel3/Matrix/src/ui/MatrixApplicatie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/src/domein/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/src/domein/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/src/domein/TuincentrumBewerking.java" beforeDir="false" afterPath="$PROJECT_DIR$/VoorbeeldExamen/Vraag1/src/domein/TuincentrumBewerking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.history/ba/40c5dbf0bc11001a1ef5ff466396db65" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.history/de/b00c7f0dbe11001a1ef5ff466396db65" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.history/ff/40bf160bbe11001a1ef5ff466396db65" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.indexes/e4/61/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.location" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/.markers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/org.eclipse.egit.core/GitProjectData.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Leerpaden6_8/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.indexes/e4/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.location" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/.markers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/org.eclipse.egit.core/GitProjectData.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Oef6/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/2176160458.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/3407069065.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/4106573776.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS_linux/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Announcement.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Announcement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Applicatie6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Article.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Driehoek.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Driehoek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Mystery2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Newspaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Newspaper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oef6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oef6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening1/Oef1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening1/Oef1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening2/Oef2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening2/Oef2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening3/Oef3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefening3/Oef3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Oefeningen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Publication.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/Publication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/TesterOefeningen.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/TesterOefeningen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/deel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/deel1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/applicatie/Oefening4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/applicatie/Oefening4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/domein/Doos.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening4/domein/Doos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening5/Oef5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening5/Oef5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/domein/Vierkant.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/domein/Vierkant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/ui/Oef6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening6/ui/Oef6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/Rekening.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/Rekening.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/RekeningOperaties.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/domein/RekeningOperaties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/ui/Oefening7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/oefening7/ui/Oefening7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/BreakTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/BreakTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ContinueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ContinueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/DoWhileControle.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/DoWhileControle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ForCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/ForCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/GetallenApplicatie.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/GetallenApplicatie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Interest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LetterGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LetterGrades.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LogicalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/LogicalOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1B.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/MeerkeuzeApplicatie1B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/SwitchVoorbeeld3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/WhileCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/OO_Programmeren_I/ui/WhileCounter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +186,7 @@
       <workItem from="1575876761824" duration="261000" />
       <workItem from="1576081745227" duration="911000" />
       <workItem from="1576137995820" duration="5732000" />
-      <workItem from="1576232727565" duration="633000" />
+      <workItem from="1576232727565" duration="2257000" />
     </task>
     <task id="LOCAL-00001" summary="Alles omgezet naar Eclipse Project">
       <created>1570089601746</created>
@@ -543,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576148533420</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="H6_8 - Deel 3 + Deelexamen - Minor fixes">
+      <created>1576233522545</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1576233522545</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +456,8 @@
     <MESSAGE value="H6_8 deel 3 en stukje oef 4" />
     <MESSAGE value="Feedback gekregen en aangepast" />
     <MESSAGE value="H6_8 - Deel 3 - Jackpot" />
-    <option name="LAST_COMMIT_MESSAGE" value="H6_8 - Deel 3 - Jackpot" />
+    <MESSAGE value="H6_8 - Deel 3 + Deelexamen - Minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="H6_8 - Deel 3 + Deelexamen - Minor fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1253" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1576158844350">
@@ -598,34 +468,34 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="807" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1576228276317" />
-    <state x="475" y="107" key="CommitChangelistDialog2" timestamp="1575645602721">
+    <state x="475" y="107" width="959" height="824" key="CommitChangelistDialog2" timestamp="1576233521820">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="475" y="107" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1575645602721" />
+    <state x="475" y="107" width="959" height="824" key="CommitChangelistDialog2/0.0.1920.1035@0.0.1920.1035" timestamp="1576233521820" />
     <state x="743" y="260" key="FileChooserDialogImpl" timestamp="1575645379963">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="743" y="260" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1575645379963" />
-    <state width="910" height="189" key="GridCell.Tab.0.bottom" timestamp="1576232551315">
+    <state width="1870" height="189" key="GridCell.Tab.0.bottom" timestamp="1576234704792">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="910" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1576232551315" />
-    <state width="910" height="189" key="GridCell.Tab.0.center" timestamp="1576232551314">
+    <state width="1870" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1576234704792" />
+    <state width="1870" height="189" key="GridCell.Tab.0.center" timestamp="1576234704790">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="910" height="189" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1576232551314" />
-    <state width="910" height="189" key="GridCell.Tab.0.left" timestamp="1576232551313">
+    <state width="1870" height="189" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1576234704790" />
+    <state width="1870" height="189" key="GridCell.Tab.0.left" timestamp="1576234704789">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="910" height="189" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1576232551313" />
-    <state width="910" height="189" key="GridCell.Tab.0.right" timestamp="1576232551314">
+    <state width="1870" height="189" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1576234704789" />
+    <state width="1870" height="189" key="GridCell.Tab.0.right" timestamp="1576234704791">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="910" height="189" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1576232551314" />
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1575645604002">
+    <state width="1870" height="189" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1576234704791" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1576233524267">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1575645604002" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1035@0.0.1920.1035" timestamp="1576233524267" />
     <state x="736" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575548276135">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
