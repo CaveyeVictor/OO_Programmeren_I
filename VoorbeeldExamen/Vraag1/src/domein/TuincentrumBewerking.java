@@ -15,7 +15,7 @@ public class TuincentrumBewerking {
     public static String maakOverzichtPlanten(Plant[] array){
         String str = String.format("Overzicht van alle planten: %n");
         for (Plant p: array){
-            str += String.format("%s%n", p.toString());
+            str += String.format("%s %n", p.toString());
         }
         return str;
     }

@@ -30,28 +30,31 @@ public class Matrix {
 
     public ArrayList<Punt> geefZadelpunten(){
         ArrayList<Punt> list = new ArrayList<>();
-
-        //todo: zoek de fout
+        
         for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length ; j++) {
-                int begin = matrix[i][j];
-                int minCol = matrix[i][j], maxRij = matrix[i][j];
+            int rijMin = matrix[i][0];
+            int kolIndex = 0, rijIndex = 0;
+             
+            boolean zadelPunt = true;
+             
+            for (int j = 1; j < matrix[i].length; j++) {
+                if(matrix[i][j] < rijMin) {
+                    rijMin = matrix[i][j];
+                    rijIndex = i;
+                    kolIndex = j;
+                }
+            }
+             
+            for (int j = 0; j < matrix.length; j++) {
+                if(matrix[j][kolIndex] > rijMin) {
+                    zadelPunt = false;
+                    break;
+                }
+            }
 
-                for (int k = 0; k < matrix[0].length; k++) {
-                    if (matrix[i][k] > minCol){
-                        minCol = matrix[i][k];
-                        break;
-                    }
-                }
-                for (int l = 0; l < matrix.length; l++) {
-                    if (matrix[l][j] < maxRij){
-                        maxRij = matrix[l][j];
-                        break;
-                    }
-                }
-                if (minCol == begin && maxRij == begin){
-                    list.add(new Punt(i, j));
-                }
+            //
+            if(zadelPunt) {
+                list.add(new Punt(rijIndex, kolIndex));
             }
         }
         return list;

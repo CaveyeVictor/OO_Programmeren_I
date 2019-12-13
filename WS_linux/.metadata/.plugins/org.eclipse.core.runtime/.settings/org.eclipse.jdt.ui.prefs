@@ -1,9 +1,0 @@
-content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxuzABCDEFGHIJKLMNOPQRSTUVWXYZ
-content_assist_number_of_computers=17
-eclipse.preferences.version=1
-org.eclipse.jdt.ui.formatterprofiles.version=17
-org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="sout" enabled\="true" name\="sout">System.out.println(${word_selection}${});${cursor}</template><template autoinsert\="true" context\="java" deleted\="false" description\="souf" enabled\="true" name\="souf">System.out.printf(${word_selection}${});${cursor}</template></templates>
-spelling_locale=en_GB
-spelling_locale_initialized=true
-useAnnotationsPrefPage=true
-useQuickDiffPrefPage=true

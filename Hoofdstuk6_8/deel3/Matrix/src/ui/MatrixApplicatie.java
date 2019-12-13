@@ -11,8 +11,16 @@ public class MatrixApplicatie {
 	private static ArrayList<Punt> list = new ArrayList<>();
 
 	public static void main(String[] args) {
-		Matrix matrix = new Matrix(3, 5);
+		Matrix matrix = new Matrix(3, 3);
 		SecureRandom secureRandom = new SecureRandom();
+
+		int[][] a = {
+				{1, 2, 6},
+				{7, 13, 16},
+				{4, 8, 7}
+		};
+
+		matrix.setMatrix(a);
 
 		System.out.printf("oorspronkelijke matrix%n");
 		System.out.println(matrix.toString());

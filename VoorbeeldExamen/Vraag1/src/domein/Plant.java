@@ -2,27 +2,27 @@ package domein;
 
 public class Plant {
     private String plantennaam;
-    private boolean buitenplant = false;
+    private boolean buitenplant;
     private double[] waterPerWeekPerSeizoen;
 
-    public Plant(String plantennaam){
-        setPlantennaam(plantennaam);
-    }
-
     public Plant(String plantennaam, boolean buitenplant, double[] waterPerWeekPerSeizoen){
-        this(plantennaam);
+        setPlantennaam(plantennaam);
         setBuitenplant(buitenplant);
         setWaterPerWeekPerSeizoen(waterPerWeekPerSeizoen);
     }
+    
+    public Plant(String plantennaam){
+    	this(plantennaam, false, new double[] {0.0, 0.0, 0.0, 0.0});
+    }
 
-    @Override
+	@Override
     public String toString(){
         double som = 0;
         for (double water: waterPerWeekPerSeizoen){
             som += water;
         }
         return String.format("%s met naam %s en met %.1f gemiddeld waterverbruik per week.",
-                buitenplant ? "Buitenplant" : "Kamperplant", plantennaam, som);
+                buitenplant ? "Buitenplant" : "Kamperplant", plantennaam, som/4);
     }
 
     public String getPlantennaam() {
@@ -30,10 +30,10 @@ public class Plant {
     }
 
     private void setPlantennaam(String plantennaam) {
-        if (plantennaam != null || plantennaam != ""){
-            this.plantennaam = plantennaam;
+        if (plantennaam == null || plantennaam.equals("")){
+        	throw new IllegalArgumentException("Plantennaam mag niet leeg zijn");
         } else {
-            throw new IllegalArgumentException("lantennaam mag niet leeg zijn”");
+            this.plantennaam = plantennaam;
         }
 
     }
