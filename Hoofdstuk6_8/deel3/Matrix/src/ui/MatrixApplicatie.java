@@ -1,7 +1,7 @@
 package ui;
 
-import domein.Matrix;
-import domein.Punt;
+import oefening8.domein.domein.Matrix;
+import oefening8.domein.domein.Punt;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;

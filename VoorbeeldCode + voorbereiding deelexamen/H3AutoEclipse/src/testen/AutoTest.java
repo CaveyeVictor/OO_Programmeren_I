@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.Auto;
+import oefening8.domein.domein.Auto;
 
 class AutoTest {
 	

@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.Product;
+import oefening8.domein.domein.Product;
 
 public class ProductApplicatie {
 

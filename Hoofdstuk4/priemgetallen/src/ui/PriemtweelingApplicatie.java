@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.MijnGetallen;
+import oefening8.domein.domein.MijnGetallen;
 
 public class PriemtweelingApplicatie {
 

@@ -1,6 +1,6 @@
 package ui;
 
-import domein.Rechthoek;
+import oefening8.domein.domein.Rechthoek;
 
 public class RechthoekApplicatie {
 

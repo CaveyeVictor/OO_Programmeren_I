@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.Lid;
+import oefening8.domein.domein.Lid;
 
 public class LidApplicatie {
 

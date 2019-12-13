@@ -1,6 +1,6 @@
 package ui;
 
-import domein.Jackpot;
+import oefening8.domein.domein.Jackpot;
 
 import java.util.Scanner;
 

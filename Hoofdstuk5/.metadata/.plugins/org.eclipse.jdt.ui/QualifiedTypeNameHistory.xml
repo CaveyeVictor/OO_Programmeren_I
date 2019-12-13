@@ -9,8 +9,8 @@
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.pubapi.PubApi"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="domein.Speler"/>
+    <fullyQualifiedTypeName name="oefening8.domein.domein.Speler"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ui.BerekeningApplicatie3"/>
-    <fullyQualifiedTypeName name="domein.Berekening"/>
+    <fullyQualifiedTypeName name="oefening8.domein.domein.Berekening"/>
 </qualifiedTypeNameHistroy>

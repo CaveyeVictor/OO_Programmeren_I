@@ -3,7 +3,7 @@ package testen;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import domein.DatumOperaties;
+import oefening8.domein.domein.DatumOperaties;
 
 /**
  *

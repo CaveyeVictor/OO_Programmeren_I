@@ -1,4 +1,4 @@
-package domein;
+package oefening8;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;

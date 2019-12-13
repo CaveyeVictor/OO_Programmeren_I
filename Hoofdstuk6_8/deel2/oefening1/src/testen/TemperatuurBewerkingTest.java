@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.TemperatuurBewerking;
+import oefening8.domein.domein.TemperatuurBewerking;
 
 public class TemperatuurBewerkingTest
 {

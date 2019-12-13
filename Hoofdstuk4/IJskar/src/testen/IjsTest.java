@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.IJs;
+import oefening8.domein.domein.IJs;
 
 public class IjsTest {
 

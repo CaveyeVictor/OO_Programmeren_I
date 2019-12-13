@@ -1,12 +1,11 @@
 package ui;
 
-import java.util.ArrayList;
 import java.util.List;
 
 
-import domein.DatumOperaties;
-import domein.Simulatie;
-import domein.ZelfdeDagJarig;
+import oefening8.DatumOperaties;
+import oefening8.Simulatie;
+import oefening8.ZelfdeDagJarig;
 
 public class Hoofdstuk7_oef4 {
 

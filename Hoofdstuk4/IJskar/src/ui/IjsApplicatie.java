@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.IJs;
+import oefening8.domein.domein.IJs;
 
 public class IjsApplicatie {
 

@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.Rechthoek;
+import oefening8.domein.domein.Rechthoek;
 
 public class RechthoekApplicatie {
 

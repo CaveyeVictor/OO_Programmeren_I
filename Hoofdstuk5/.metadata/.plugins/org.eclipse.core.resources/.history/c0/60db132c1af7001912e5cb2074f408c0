@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.Speler;
+import oefening8.domein.domein.Speler;
 
 public class SpelerApplicatie {
 

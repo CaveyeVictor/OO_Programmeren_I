@@ -2,7 +2,7 @@ package testen;
 
 import org.junit.jupiter.api.*;
 
-import domein.Matrix;
+import oefening8.domein.domein.Matrix;
 
 public class MatrixTest
 {

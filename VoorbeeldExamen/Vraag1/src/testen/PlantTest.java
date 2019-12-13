@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import domein.Plant;
+import oefening8.domein.domein.Plant;
 
 public class PlantTest
 {

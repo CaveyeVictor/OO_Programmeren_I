@@ -1,6 +1,6 @@
 package ui;
 
-import domein.Cirkel;
+import oefening8.domein.domein.Cirkel;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package domein;
+package oefening8;
 
 public class ZelfdeDagJarig {
     private int persoon1, persoon2, dagnr;

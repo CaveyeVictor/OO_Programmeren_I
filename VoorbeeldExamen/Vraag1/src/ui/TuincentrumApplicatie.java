@@ -1,7 +1,7 @@
 package ui;
 
-import domein.Plant;
-import domein.TuincentrumBewerking;
+import oefening8.domein.domein.Plant;
+import oefening8.domein.domein.TuincentrumBewerking;
 
 public class TuincentrumApplicatie {
 

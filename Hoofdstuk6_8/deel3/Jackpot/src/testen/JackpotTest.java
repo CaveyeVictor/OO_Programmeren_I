@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.Jackpot;
+import oefening8.domein.domein.Jackpot;
 
 public class JackpotTest
 {

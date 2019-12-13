@@ -5,8 +5,8 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.Cirkel;
-import domein.Punt;
+import oefening8.domein.domein.Cirkel;
+import oefening8.domein.domein.Punt;
 
 public class CirkelTest
 {
