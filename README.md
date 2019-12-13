@@ -1,7 +1,9 @@
 # OO_Programmeren_I
 1e bach - oefeningen
 
-##
+Go to your Chapter, your part or exercise name, go to **src** and your package.
+
+## 
 
 ## Used editors
 
