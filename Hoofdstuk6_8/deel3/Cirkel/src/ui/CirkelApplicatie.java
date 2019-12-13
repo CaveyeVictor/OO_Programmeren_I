@@ -1,6 +1,6 @@
 package ui;
 
-import oefening8.domein.domein.Cirkel;
+import domein.Cirkel;
 
 import java.util.Scanner;
 
@@ -33,7 +33,6 @@ public class CirkelApplicatie {
 				default:
 					System.out.println("Foute keuze");
 			}
-
 		} while (keuze != 4);
 	}
 
@@ -50,26 +49,23 @@ public class CirkelApplicatie {
 	}
 
 	public static void toonGegevens(Cirkel cirkel){
-		System.out.printf("De cirkel heeft:%n" +
-				"zijn middelpunt op: %s%n" +
-				"straal van: %d%n" +
-				"diameter van: %d%n" +
-				"een omtrek van: %.2f%n" +
-				"een oppervlakte van: %.2f%n",
-				cirkel.getMiddelpunt(), cirkel.getStraal(),
-				cirkel.berekenDiameter(), cirkel.berekenOmtrek(),
-				cirkel.berekenOppervlakte());
+        System.out.println(cirkel.toString());
 	}
 
 	public static int voerKeuzeIn(){
 		Scanner input = new Scanner(System.in);
-		System.out.printf("%nKies een keuze%n" +
-				"1) Krimp%n" +
-				"2) Groei%n" +
-				"3) Nieuw middelpunt%n" +
-				"4) Stop programma%n" +
-				"Uw keuze: ");
-		return input.nextInt();
+		int keuze = -1;
+		do {
+            System.out.printf("%nKies een keuze%n" +
+                    "1) Krimp%n" +
+                    "2) Groei%n" +
+                    "3) Nieuw middelpunt%n" +
+                    "4) Stop programma%n" +
+                    "Uw keuze: ");
+            keuze = input.nextInt();
+        } while (keuze < 1 || keuze > 4);
+		return keuze;
+
 	}
 
 }

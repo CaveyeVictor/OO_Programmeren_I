@@ -73,5 +73,5 @@ java.lang.NullPointerException
 !ENTRY org.eclipse.ui.navigator 4 0 2019-10-18 12:09:46.058
 !MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in IJskar]
   <default> (not open)
-  oefening8.domein.domein (...)
+  domein.domein.domein (...)
   ui (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.

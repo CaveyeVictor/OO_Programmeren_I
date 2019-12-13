@@ -1,10 +1,11 @@
 package ui;
 
-import oefening8.domein.domein.Matrix;
-import oefening8.domein.domein.Punt;
+import domein.Matrix;
+import domein.Punt;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;
+import java.util.List;
 
 public class MatrixApplicatie {
 
@@ -38,8 +39,11 @@ public class MatrixApplicatie {
 		}
 	}
 
-	private static void zoekZadelpunten(Matrix m){
-		list = m.geefZadelpunten();
+	private static void zoekZadelpunten(Matrix matrix){
+		List<Punt> lijst = matrix.geefZadelpunten();
+		for (Punt p: lijst) {
+			System.out.printf("%d op positie %s%n", matrix.geefWaardeOpRijKolom(p.getX() - 1, p.getY() - 1), p.toString());
+		}
 	}
 
 }

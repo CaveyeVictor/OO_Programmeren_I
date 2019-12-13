@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import oefening8.domein.domein.Punt;
+import domein.domein.domein.Punt;
 
 public class PuntTest
 {

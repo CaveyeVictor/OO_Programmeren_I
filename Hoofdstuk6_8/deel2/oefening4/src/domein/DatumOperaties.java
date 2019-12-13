@@ -1,4 +1,4 @@
-package oefening8;
+package domein;
 
 public class DatumOperaties {
     private static String[] MAANDEN = new String[]{

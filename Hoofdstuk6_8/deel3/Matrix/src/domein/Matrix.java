@@ -1,6 +1,9 @@
-package oefening8.domein.domein;
+package domein;
 
 import java.util.ArrayList;
+import java.util.List;
+
+import domein.Punt;
 
 public class Matrix {
     private int rij, kolom;
@@ -28,36 +31,39 @@ public class Matrix {
         }
     }
 
-    public ArrayList<Punt> geefZadelpunten(){
-        ArrayList<Punt> list = new ArrayList<>();
-        
-        for (int i = 0; i < matrix.length; i++) {
-            int rijMin = matrix[i][0];
-            int kolIndex = 0, rijIndex = 0;
-             
-            boolean zadelPunt = true;
-             
-            for (int j = 1; j < matrix[i].length; j++) {
-                if(matrix[i][j] < rijMin) {
-                    rijMin = matrix[i][j];
-                    rijIndex = i;
-                    kolIndex = j;
-                }
-            }
-             
-            for (int j = 0; j < matrix.length; j++) {
-                if(matrix[j][kolIndex] > rijMin) {
-                    zadelPunt = false;
-                    break;
+    public List<Punt> geefZadelpunten()
+    {
+        List<Punt> punten = new ArrayList<>();
+        int kl, gr, vl;
+        for (int i = 0; i < rij; i++)
+        {
+            kl = matrix[i][0];
+            vl = 0;
+
+            for (int j = 1; j < kolom; j++)
+            {
+                if (matrix[i][j] < kl)
+                {
+                    kl = matrix[i][j];
+                    vl = j;
                 }
             }
 
-            //
-            if(zadelPunt) {
-                list.add(new Punt(rijIndex, kolIndex));
+            gr = matrix[i][vl];
+            for (int j = 0; j < rij; j++)
+            {
+                if (matrix[j][vl] > gr)
+                {
+                    gr = matrix[j][vl];
+                }
+            }
+
+            if (gr == kl)
+            {
+                punten.add(new Punt(i + 1, vl + 1));
             }
         }
-        return list;
+        return punten;
     }
 
     @Override

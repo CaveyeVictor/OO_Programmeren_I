@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import oefening8.domein.domein.MijnGetallen;
+import domein.domein.domein.MijnGetallen;
 
 public class MijnGetallenTest {
 	private MijnGetallen mg1, mg2, mg3, mg4, mg5;

@@ -1,4 +1,4 @@
-package oefening8.domein;
+package domein.domein;
 
 public class KopOfMunt {
 

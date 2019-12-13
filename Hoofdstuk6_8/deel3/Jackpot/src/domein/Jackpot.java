@@ -1,4 +1,4 @@
-package oefening8.domein.domein;
+package domein;
 
 import java.security.SecureRandom;
 
@@ -28,7 +28,8 @@ public class Jackpot {
     private void setRes(){
         SecureRandom secureRandom = new SecureRandom();
         for (int i = 0; i < res.length ; i++) {
-            res[i] = secureRandom.nextInt(16);
+            //feedback: -> MAXWAARDE gebruiken --> waar, beetje onduidelijk
+            res[i] = secureRandom.nextInt(MAXWAARDE);
         }
     }
 

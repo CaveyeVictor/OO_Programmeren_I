@@ -2,7 +2,7 @@ package testen;
 
 import org.junit.jupiter.api.*;
 
-import oefening8.domein.domein.Marktkraam;
+import domein.domein.domein.Marktkraam;
 
 public class MarktkraamTest 
 {

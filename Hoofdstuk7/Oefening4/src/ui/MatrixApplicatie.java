@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import oefening8.domein.domein.Matrix;
+import domein.domein.domein.Matrix;
 
 public class MatrixApplicatie {
 

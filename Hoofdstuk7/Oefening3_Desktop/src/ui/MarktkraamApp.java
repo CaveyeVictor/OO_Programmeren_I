@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import oefening8.domein.domein.Marktkraam;
+import domein.domein.domein.Marktkraam;
 
 public class MarktkraamApp {
 

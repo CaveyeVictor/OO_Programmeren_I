@@ -1,6 +1,6 @@
 package ui;
 
-import oefening8.domein.domein.Rekening;
+import domein.domein.domein.Rekening;
 
 public class RekeningApplicatie {
 

@@ -1,4 +1,4 @@
-package oefening8;
+package domein;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;
@@ -30,7 +30,8 @@ public class Simulatie {
             for (int j = i+1; j < persoon.length; j++) {
                 if (dag == persoon[j]){
                     list.add(new ZelfdeDagJarig(i, j, dag));
-                    //break; of niet? Opgave een beetje verwarrend.
+                    break;
+                    //break --> feebback: ja
                 }
             }
             i++;

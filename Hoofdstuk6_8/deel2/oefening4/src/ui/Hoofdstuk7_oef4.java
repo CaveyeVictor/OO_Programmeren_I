@@ -3,15 +3,18 @@ package ui;
 import java.util.List;
 
 
-import oefening8.DatumOperaties;
-import oefening8.Simulatie;
-import oefening8.ZelfdeDagJarig;
+import domein.DatumOperaties;
+import domein.Simulatie;
+import domein.ZelfdeDagJarig;
 
 public class Hoofdstuk7_oef4 {
 
 	public static void main(String[] args) {
 		Simulatie s = new Simulatie(60);
 		List<ZelfdeDagJarig> zdj = s.maakSimulatie();
+		//bij List ALTIJD het type tussen <..> vermelden!!
+		//
+		//List<ZelfdeDagJarig>
 		toonResultaat(zdj);
 	}
 	

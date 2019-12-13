@@ -1,11 +1,19 @@
-package oefening8.domein.domein;
+package domein;
 
-public class Cirkel extends Punt{
+import domein.Punt;
+
+public class Cirkel{
+    private Punt middelpunt;
     private int straal;
 
     public Cirkel(int x, int y, int straal){
-        super(x, y);
+        setMiddelPunt(new Punt(x, y));
         setStraal(straal);
+
+    }
+
+    private void setMiddelPunt(Punt punt) {
+        this.middelpunt = punt;
     }
 
     public String getMiddelpunt(){
@@ -38,7 +46,15 @@ public class Cirkel extends Punt{
 
     @Override
     public String toString(){
-        return "";
+        return String.format("De cirkel heeft:%n" +
+                        "zijn middelpunt op: %s%n" +
+                        "straal van: %d%n" +
+                        "diameter van: %d%n" +
+                        "een omtrek van: %.2f%n" +
+                        "een oppervlakte van: %.2f%n",
+                getMiddelpunt(), getStraal(),
+                berekenDiameter(), berekenOmtrek(),
+                berekenOppervlakte());
     }
 
     public int getStraal() {

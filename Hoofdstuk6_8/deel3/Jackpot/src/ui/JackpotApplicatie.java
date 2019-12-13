@@ -1,6 +1,6 @@
 package ui;
 
-import oefening8.domein.domein.Jackpot;
+import domein.Jackpot;
 
 import java.util.Scanner;
 
@@ -54,15 +54,19 @@ public class JackpotApplicatie {
 
     public static int voerKeuzeIn(){
         Scanner input = new Scanner(System.in);
-        System.out.printf("Geef uw keuze :%n" +
-                "1) nieuw spel%n" +
-                "2) speel%n" +
-                "3) stop het spel%n" +
-                "4) toon krediet%n" +
-                "5) toon spelbedrag%n" +
-                "6) stop programma%n" +
-                "Keuze: ");
-        return input.nextInt();
+        int keuze = -1;
+        do {
+            System.out.printf("Geef uw keuze :%n" +
+                    "1) nieuw spel%n" +
+                    "2) speel%n" +
+                    "3) stop het spel%n" +
+                    "4) toon krediet%n" +
+                    "5) toon spelbedrag%n" +
+                    "6) stop programma%n" +
+                    "Keuze: ");
+            keuze = input.nextInt();
+        } while (keuze < 1 || keuze > 6);
+        return keuze;
     }
 
     private void geefFout(){

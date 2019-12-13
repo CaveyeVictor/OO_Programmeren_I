@@ -1,6 +1,6 @@
 package ui;
 
-import oefening8.domein.domein.Punt;
+import domein.domein.domein.Punt;
 
 import java.util.Scanner;
 

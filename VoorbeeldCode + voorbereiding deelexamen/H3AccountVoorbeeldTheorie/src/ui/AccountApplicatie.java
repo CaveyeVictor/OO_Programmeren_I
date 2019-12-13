@@ -1,6 +1,6 @@
 package ui;
 
-import oefening8.domein.domein.Account;
+import domein.domein.domein.Account;
 import java.util.Scanner;
 
 public class AccountApplicatie

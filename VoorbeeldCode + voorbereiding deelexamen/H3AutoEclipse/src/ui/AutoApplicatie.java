@@ -1,6 +1,6 @@
 package ui;
 
-import oefening8.domein.domein.Auto;
+import domein.domein.domein.Auto;
 
 public class AutoApplicatie {
 	
