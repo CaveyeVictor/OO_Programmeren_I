@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.domein.domein.Product;
+import domein.Product;
 
 public class ProductApplicatie {
 

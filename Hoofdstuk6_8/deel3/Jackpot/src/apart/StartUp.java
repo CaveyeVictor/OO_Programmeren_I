@@ -1,6 +1,6 @@
 package apart;
 
-import domein.domein.domein.Jackpot;
+import domein.Jackpot;
 import ui.JackpotApplicatie;
 
 public class StartUp {

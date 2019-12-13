@@ -1,6 +1,6 @@
 package ui;
 
-import domein.domein.domein.Rekening;
+import domein.Rekening;
 
 public class RekeningApplicatie {
 

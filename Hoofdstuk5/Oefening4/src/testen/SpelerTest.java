@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.domein.domein.Speler;
+import domein.Speler;
 
 public class SpelerTest
 {

@@ -1,4 +1,4 @@
-package domein.domein.domein;
+package domein;
 
 import java.time.LocalDateTime;
 

@@ -1,7 +1,7 @@
 package ui;
 
 
-import domein.domein.domein.DatumOperaties;
+import domein.DatumOperaties;
 
 import java.util.Scanner;
 

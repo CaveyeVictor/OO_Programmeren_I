@@ -1,4 +1,4 @@
-package domein.domein.domein;
+package domein;
 
 public class Winkel {
     public double[][] vulVerkoopcijfersOp(double[][] dest, double[] source){

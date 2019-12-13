@@ -3,7 +3,7 @@ package ui;
 import java.util.Iterator;
 import java.util.Scanner;
 
-import domein.domein.domein.MijnGetallen;
+import domein.MijnGetallen;
 
 public class PriemtweelingApplicatie {
 	static Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package domein.domein.domein;
+package domein;
 
 public class DatumOperaties {
     private final static String[] MAANDEN = new String[]{

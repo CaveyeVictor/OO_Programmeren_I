@@ -1,6 +1,6 @@
 package ui;
 
-import domein.domein.domein.Punt;
+import domein.Punt;
 
 import java.util.Scanner;
 

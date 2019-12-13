@@ -1,4 +1,4 @@
-package domein.domein.domein;
+package domein;
 
 public class Rechthoek {
 	private double lengte;

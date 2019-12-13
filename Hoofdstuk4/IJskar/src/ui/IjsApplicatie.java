@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.domein.domein.IJs;
+import domein.IJs;
 
 public class IjsApplicatie {
 

@@ -30,7 +30,7 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 !ENTRY org.eclipse.ui.navigator 4 0 2019-10-25 12:11:29.358
 !MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in Oefening4]
   <default> (not open)
-  domein.domein.domein (...)
+  domein (...)
   ui (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
 !SESSION 2019-10-25 15:26:18.642 -----------------------------------------------
 eclipse.buildId=4.13.0.I20190916-1045

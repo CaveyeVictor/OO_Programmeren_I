@@ -1,6 +1,6 @@
 package ui;
 
-import domein.domein.domein.TemperatuurBewerking;
+import domein.TemperatuurBewerking;
 
 import java.util.Scanner;
 

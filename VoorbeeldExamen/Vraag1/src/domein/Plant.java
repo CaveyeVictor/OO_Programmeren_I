@@ -1,4 +1,4 @@
-package domein.domein.domein;
+package domein;
 
 public class Plant {
     private String plantennaam;

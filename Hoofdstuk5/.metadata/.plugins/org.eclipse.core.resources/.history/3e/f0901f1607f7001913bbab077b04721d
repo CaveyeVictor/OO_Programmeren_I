@@ -2,7 +2,7 @@ package ui;
 
 import java.util.Scanner;
 
-import domein.domein.domein.Berekening;
+import domein.Berekening;
 
 public class BerekeningApplicatie1 {
 

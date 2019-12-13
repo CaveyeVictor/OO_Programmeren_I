@@ -1,6 +1,6 @@
 package ui;
 
-import domein.domein.domein.Auto;
+import domein.Auto;
 
 public class AutoApplicatie {
 	

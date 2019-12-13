@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import domein.domein.domein.Berekening;
+import domein.Berekening;
 
 public class BerekeningTest 
 {

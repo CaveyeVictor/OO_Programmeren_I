@@ -1,6 +1,6 @@
 package ui;
 
-import domein.domein.domein.Winkel;
+import domein.Winkel;
 
 public class Hoofdstuk7_oef3 {
 

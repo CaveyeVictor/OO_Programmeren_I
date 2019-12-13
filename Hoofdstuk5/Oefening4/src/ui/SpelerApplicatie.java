@@ -4,7 +4,7 @@ import java.security.SecureRandom;
 import java.util.Random;
 import java.util.Scanner;
 
-import domein.domein.domein.Speler;
+import domein.Speler;
 
 public class SpelerApplicatie {
 
