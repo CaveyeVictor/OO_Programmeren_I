@@ -23,19 +23,23 @@ public class Simulatie {
         }
     }
 
-    public List<ZelfdeDagJarig> zoekJarigenOpDezelfdeDag (int[] allePersonen){
-        List<ZelfdeDagJarig> list = new ArrayList<>();
-        int i = 0;
-        for (int dag: persoon){
-            for (int j = i+1; j < persoon.length; j++) {
-                if (dag == persoon[j]){
-                    list.add(new ZelfdeDagJarig(i, j, dag));
-                    break;
-                    //break --> feebback: ja
+    public List<ZelfdeDagJarig> zoekJarigOpDezelfdeDag(int[] allePersonen)
+    {
+        List<ZelfdeDagJarig> lijst = new ArrayList<>();
+        for (int i=0; i<allePersonen.length-1; i++)
+        {
+            int j = i+1;
+            boolean gevonden = false;
+            while (j < allePersonen.length && !gevonden)
+            {
+                if (allePersonen[i] == allePersonen[j])
+                {
+                    lijst.add(new ZelfdeDagJarig(i+1, j+1, allePersonen[i]));
+                    gevonden = true;
                 }
+                j++;
             }
-            i++;
         }
-        return list;
+        return lijst;
     }
 }
