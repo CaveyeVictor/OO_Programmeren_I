@@ -11,13 +11,11 @@ public class Hoofdstuk7_oef3 {
 		double[] cijfers = {100.50, 500, 700, 0, 333.95, 1000, 489, 789.10, 90, 50000, 66, 0, 700, 20, 30};
 		double[][] verkoopcijfers = new double[cijfers.length/WEEKDAGEN.length][WEEKDAGEN.length];
 		Hoofdstuk7_oef3 oef = new Hoofdstuk7_oef3();
-		verkoopcijfers = winkel.vulVerkoopcijfersOp(verkoopcijfers, cijfers);
+		winkel.vulVerkoopcijfersOp(verkoopcijfers, cijfers);
 
 		oef.toonSomPerDag(verkoopcijfers);
 		oef.toonSomPerProduct(verkoopcijfers);
 		oef.toonVerkoopcijfers(verkoopcijfers);
-
-
 	}
 
 	private void toonSomPerDag(double[][] verkoopcijfers){
@@ -61,4 +59,3 @@ public class Hoofdstuk7_oef3 {
 		}
 	}
 }
-

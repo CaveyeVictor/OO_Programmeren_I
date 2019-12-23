@@ -23,7 +23,7 @@ public class Plant {
             som += water;
         }
         return String.format("%s met naam %s en met %.1f gemiddeld waterverbruik per week.",
-                buitenplant ? "Buitenplant" : "Kamperplant", plantennaam, som/4);
+                buitenplant ? "Buitenplant" : "Kamperplant", plantennaam, som/waterPerWeekPerSeizoen.length);
     }
 
     public String getPlantennaam() {

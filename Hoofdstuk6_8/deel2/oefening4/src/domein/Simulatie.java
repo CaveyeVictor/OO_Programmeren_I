@@ -28,6 +28,8 @@ public class Simulatie {
         List<ZelfdeDagJarig> lijst = new ArrayList<>();
         for (int i=0; i<allePersonen.length-1; i++)
         {
+            int j = 0, k = 0, begin = 5;
+
             int j = i+1;
             boolean gevonden = false;
             while (j < allePersonen.length && !gevonden)

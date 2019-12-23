@@ -17,6 +17,15 @@ public class TuincentrumApplicatie {
         System.out.println(TuincentrumBewerking.maakOverzichtPlanten(plantenArray));
         System.out.printf("Aantal kamerplanten in het tuincentrum: %d%n%n", TuincentrumBewerking.bepaalAantalKamerPlanten(plantenArray));
 
+        /*String waterverbruikPerSeizoen = String.format("Totaal waterverbruik per seizoen:%n" +
+                "lente: %.1f%n" +
+                "zomer: %.1f%n" +
+                "herfst: %.1f%n" +
+                "winter: %.1f%n", // for-lus?
+                );
+
+         */
+
         System.out.printf("Totaal waterverbruik per seizoen:%n" +
                 "lente: %.1f%n" +
                 "zomer: %.1f%n" +
