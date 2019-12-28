@@ -10,7 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Hoofdstuk5/Leerpaden_H5/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Hoofdstuk6_8/Leerpaden/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Hoofdstuk7/Oefening6/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Hoofdstuk6_8/deel2/oefening3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testFiles" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Hoofdstuk6_8/deel3/Matrix/src/testen" />
       <excludeFolder url="file://$MODULE_DIR$/VoorbeeldExamen/Vraag1/src/testen" />
     </content>
